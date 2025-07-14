@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Greedy
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
