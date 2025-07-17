@@ -79,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+## Depth-First Search
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
+## Union Find
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
+## Graph
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
