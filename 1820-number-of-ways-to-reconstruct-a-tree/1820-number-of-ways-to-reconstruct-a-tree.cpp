@@ -19,12 +19,12 @@ public:
             connections_mat[pair[1]][pair[0]] = true;
 
         }
-        int count_nodes = count_if(connections.begin(), connections.end(), [](int c){
+        int countNodes = count_if(connections.begin(), connections.end(), [](int c){
             return c > 0;
         });
 
-        int countRoots = count_if(connections.begin(), connections.end(), [count_nodes](int c){
-            return c == count_nodes - 1;
+        int countRoots = count_if(connections.begin(), connections.end(), [countNodes](int c){
+            return c == countNodes - 1;
         });
 
         if(!countRoots)
