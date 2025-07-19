@@ -11,12 +11,12 @@ public:
         nodesNum++;
 
         vector<int> connections(nodesNum, 0);
-        vector<vector<bool>> connections_mat(nodesNum, vector<bool>(nodesNum, false));
+        vector<vector<bool>> areConnected(nodesNum, vector<bool>(nodesNum, false));
         for(auto pair : pairs){
             connections[pair[0]]++;
             connections[pair[1]]++;
-            connections_mat[pair[0]][pair[1]] = true;
-            connections_mat[pair[1]][pair[0]] = true;
+            areConnected[pair[0]][pair[1]] = true;
+            areConnected[pair[1]][pair[0]] = true;
 
         }
         int countNodes = count_if(connections.begin(), connections.end(), [](int c){
@@ -30,22 +30,18 @@ public:
         if(!countRoots)
             return 0;
         bool foundMultiple = false;
-        for(auto pair : pairs){
-            if(connections[pair[0]] == connections[pair[1]])
-                foundMultiple = true;
-                
+        for(auto pair : pairs){                
             int ancestor = pair[0];
             int descendant  = pair[1];
-            if(connections[ancestor] < connections[descendant]){
-                int temp = ancestor;
-                ancestor = descendant;
-                descendant = temp;
-            }
+            if(connections[ancestor] < connections[descendant])
+                swap(ancestor, descendant);
             for(int i = 1; i < nodesNum; i++){
-                if(connections_mat[descendant][i] && !(connections_mat[ancestor][i]) && i != ancestor)
+                if(areConnected[descendant][i] && !areConnected[ancestor][i] && i != ancestor)
                     return 0;
             }
-            
+
+            if(connections[pair[0]] == connections[pair[1]])
+                foundMultiple = true;
         }
         if(foundMultiple)
             return 2;
