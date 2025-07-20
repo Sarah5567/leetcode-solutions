@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Sarah5567/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Sarah5567/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Greedy
 |  |
