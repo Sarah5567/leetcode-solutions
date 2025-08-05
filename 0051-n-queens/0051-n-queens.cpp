@@ -1,37 +1,37 @@
 class Solution {
-bool is_valid(vector<string> board, int r, int c){
-    for(int i = 0; i < r; i++)
-        if(board[i][c] == 'Q')
-            return false;
+    void backtrack(int r, int n, vector<string>& board,
+                   vector<bool>& col,
+                   vector<bool>& diag1,
+                   vector<bool>& diag2,
+                   vector<vector<string>>& res) {
+        if (r == n) {
+            res.push_back(board);
+            return;
+        }
 
-    for(int i = r - 1, j = c - 1; i >= 0 && j >= 0; i--, j--)
-        if(board[i][j] == 'Q')
-            return false;
+        for (int c = 0; c < n; ++c) {
+            if (col[c] || diag1[r - c + n - 1] || diag2[r + c])
+                continue;
 
-    for(int i = r - 1, j = c + 1; i >= 0 && j < board.size(); i--, j++)
-        if(board[i][j] == 'Q')
-            return false;
+            board[r][c] = 'Q';
+            col[c] = diag1[r - c + n - 1] = diag2[r + c] = true;
 
-    return true;
-}
-void all_queens_options(vector<vector<string>>& res, vector<string>& board, int r, int n){
-    if(r == n){
-        res.push_back(board);
+            backtrack(r + 1, n, board, col, diag1, diag2, res);
+
+            board[r][c] = '.';
+            col[c] = diag1[r - c + n - 1] = diag2[r + c] = false;
+        }
     }
-    else{
-       for(int i = 0; i < n; i++)
-            if(is_valid(board, r, i)){
-                board[r][i] = 'Q';
-                all_queens_options(res, board, r + 1, n);
-                board[r][i] = '.';
-            }
-    }
-}
+
 public:
     vector<vector<string>> solveNQueens(int n) {
-    vector<string> board(n, string(n, '.'));
-    vector<vector<string>> res;
-    all_queens_options(res, board, 0, n);
-    return res;
+        vector<vector<string>> res;
+        vector<string> board(n, string(n, '.'));
+        vector<bool> col(n, false);
+        vector<bool> diag1(2 * n - 1, false);
+        vector<bool> diag2(2 * n - 1, false);
+
+        backtrack(0, n, board, col, diag1, diag2, res);
+        return res;
     }
 };
