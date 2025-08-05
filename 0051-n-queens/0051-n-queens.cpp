@@ -14,7 +14,7 @@ bool is_valid(vector<string> board, int r, int c){
 
     return true;
 }
-void all_queens_options(vector<vector<string>>& res, vector<string> board, int r, int n){
+void all_queens_options(vector<vector<string>>& res, vector<string>& board, int r, int n){
     if(r == n){
         res.push_back(board);
     }
