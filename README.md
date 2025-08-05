@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 ## Array
 |  |
 | ------- |
