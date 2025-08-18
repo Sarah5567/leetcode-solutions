@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 ## Binary Search
 |  |
@@ -206,4 +210,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
