@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 ## Array
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0330-patching-array) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 ## Math
 |  |
@@ -138,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Union Find
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
@@ -234,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
