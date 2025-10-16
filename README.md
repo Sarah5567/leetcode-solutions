@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sarah5567/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0044-wildcard-matching) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sarah5567/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sarah5567/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Sarah5567/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sarah5567/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Sarah5567/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sorting
