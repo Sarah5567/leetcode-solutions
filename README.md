@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sarah5567/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [0828-chalkboard-xor-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sarah5567/leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
