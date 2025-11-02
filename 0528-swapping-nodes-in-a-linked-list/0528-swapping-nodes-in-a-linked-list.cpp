@@ -11,23 +11,21 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        pair<ListNode*, ListNode*> nodes;
+        ListNode* kthFromStart, * kthFromEnd = head;  
         int length = 0;
-        ListNode* curNode;
 
-        for(curNode = head; curNode; curNode = curNode->next){
+        for(ListNode* curNode = head; curNode; curNode = curNode->next){
             length++;
             if(length == k){
-                nodes.first = curNode;
+                kthFromStart = curNode;
             }
         }
+
+        for (int i = 1; i < length - k + 1; kthFromEnd = kthFromEnd->next, i++);
         
-        nodes.second = head;
-        for (int i = 1; i < length - k + 1; nodes.second = nodes.second->next, i++);
-        
-        int temp = nodes.first->val;
-        nodes.first->val = nodes.second->val;
-        nodes.second->val = temp;
+        int temp = kthFromStart->val;
+        kthFromStart->val = kthFromEnd->val;
+        kthFromEnd->val = temp;
 
         return head;
     }
