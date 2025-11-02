@@ -21,7 +21,8 @@ public:
             }
         }
 
-        for (int i = 1; i < length - k + 1; kthFromEnd = kthFromEnd->next, i++);
+        int requiredIndex = length - k + 1;
+        for (int i = 1; i < requiredIndex; kthFromEnd = kthFromEnd->next, i++);
         
         int temp = kthFromStart->val;
         kthFromStart->val = kthFromEnd->val;
