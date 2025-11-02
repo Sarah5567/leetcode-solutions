@@ -9,23 +9,21 @@
  * };
  */
 class Solution {
-    int findNodes(ListNode* curNode, pair<ListNode*, ListNode*>& requestedNodes, int& k, int index){
-        if(!curNode)
-            return 1;
-
-        if(index == k)
-            requestedNodes.first = curNode;
-        
-        int reversedIndex = findNodes(curNode->next, requestedNodes, k, index + 1);
-        if(reversedIndex == k)
-            requestedNodes.second = curNode;
-
-        return reversedIndex + 1;
-    }
 public:
     ListNode* swapNodes(ListNode* head, int k) {
         pair<ListNode*, ListNode*> nodes;
-        findNodes(head, nodes, k, 1);
+        int length = 0;
+        ListNode* curNode;
+
+        for(curNode = head; curNode; curNode = curNode->next){
+            length++;
+            if(length == k){
+                nodes.first = curNode;
+            }
+        }
+        
+        nodes.second = head;
+        for (int i = 1; i < length - k + 1; nodes.second = nodes.second->next, i++);
         
         int temp = nodes.first->val;
         nodes.first->val = nodes.second->val;
