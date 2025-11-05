@@ -4,24 +4,20 @@ class Solution:
         for u, v, w in flights:
             graph[u].append((v, w))
         
-        heap = [(0, src, 0)]
-        
-        visited = {}
-        
-        while heap:
-            cost, node, stops = heapq.heappop(heap)
-            
-            if node == dst:
-                return cost
-            
-            if (node, stops) in visited and visited[(node, stops)] <= cost:
-                continue
-            visited[(node, stops)] = cost
-            
-            if stops > k:
-                continue
-            
-            for neighbor, price in graph[node]:
-                heapq.heappush(heap, (cost + price, neighbor, stops + 1))
-        
-        return -1
+        stops = [[float('inf')] * n for _ in range(k + 2)]
+        stops[0][src] = 0
+
+        q = deque()
+        for v, w in graph[src]:
+            q.append((src, v, w, 1))
+
+        for stop in range(1, k + 2):
+            while q and q[0][-1] == stop:
+                u, v, w, stop = q.popleft()
+                if stops[stop][v] == float('inf'):
+                    for neighbor, weight in graph[v]:
+                        q.append((v, neighbor, weight, stop + 1))
+                stops[stop][v] = min(stops[stop][v], stops[stop - 1][u] + w)
+
+        cheapest = min(stops[i][dst] for i in range(k + 2))
+        return cheapest if cheapest < float('inf') else -1
