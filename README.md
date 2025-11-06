@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -102,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
+| [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarah5567/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 ## Hash Table
 |  |
 | ------- |
