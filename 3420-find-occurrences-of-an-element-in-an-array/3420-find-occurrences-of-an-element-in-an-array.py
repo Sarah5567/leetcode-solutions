@@ -1,17 +1,11 @@
 class Solution:
     def occurrencesOfElement(self, nums: List[int], queries: List[int], x: int) -> List[int]:
-        occurrences = [-1] * (len(nums) + 1)
-        index = 1
+        ith_occurrence = {}
+        count = 0
 
-        for i in range(len(nums)):
-            if nums[i] == x:
-                occurrences[index] = i
-                index += 1
+        for i, num in enumerate(nums):
+            if num == x:
+                count += 1
+                ith_occurrence[count] = i
         
-        res = [-1] * len(queries)
-        for i in range(len(queries)):
-            if queries[i] <=  len(nums):
-                res[i] = occurrences[queries[i]]
-
-        return res
-        
+        return [ith_occurrence.get(q, -1) for q in queries]
