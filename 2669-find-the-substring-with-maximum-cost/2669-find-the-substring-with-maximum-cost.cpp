@@ -6,18 +6,19 @@ public:
         for (int i = 0; i < ALPHABET_SIZE; ++i)
             cost[i] = i + 1;
 
-        for (int i = 0; i < (int)chars.size(); ++i)
+        for (int i = 0, n = chars.size(); i < n; ++i)
             cost[chars[i] - 'a'] = vals[i];
 
         int maxSum = 0;
         int curSum = 0;
         int minSum = 0;
 
-        for (char c : s) {
-            curSum += cost[c - 'a'];
+        const unsigned char* str = reinterpret_cast<const unsigned char*>(s.data());
+        for (int i = 0, n = s.size(); i < n; ++i) {
+            curSum += cost[str[i] - 'a'];
             if (curSum < minSum)
                 minSum = curSum;
-            else if (maxSum < curSum - minSum)
+            else if (curSum - minSum > maxSum)
                 maxSum = curSum - minSum;
         }
 
