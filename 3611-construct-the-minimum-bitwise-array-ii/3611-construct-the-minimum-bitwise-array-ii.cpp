@@ -12,8 +12,7 @@ public:
                 for(shift = 0; (nums[i] >> shift) & 1; shift++);
                 shift--;
 
-                int mask = 1 << shift;
-                ans[i] = ~mask & nums[i];
+                ans[i] = ~(1 << shift) & nums[i];
             }
 
         }
