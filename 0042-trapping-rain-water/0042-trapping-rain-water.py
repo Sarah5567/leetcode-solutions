@@ -1,18 +1,23 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         n = len(height)
-        first_max_so_far = [0] * n
-        first_max_so_far[0] = height[0]
+        if n == 0:
+            return 0
+
+        max_left = [0] * n
+        max_left[0] = height[0]
+
         for i in range(1, n):
-            first_max_so_far[i] = max(height[i], first_max_so_far[i - 1])
+            max_left[i] = max(max_left[i - 1], height[i])
 
-        second_max_so_far = [0] * n
-        second_max_so_far[n - 1] = height[n - 1]
+        max_right = [0] * n
+        max_right[n - 1] = height[n - 1]
+
         for i in range(n - 2, -1, -1):
-            second_max_so_far[i] = max(height[i], second_max_so_far[i + 1])
+            max_right[i] = max(max_right[i + 1], height[i])
 
-        total = 0
+        trapped = 0
         for i in range(n):
-            total += min(first_max_so_far[i], second_max_so_far[i]) - height[i]
+            trapped += min(max_left[i], max_right[i]) - height[i]
 
-        return total
+        return trapped
