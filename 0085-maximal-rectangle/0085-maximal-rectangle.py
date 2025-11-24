@@ -6,64 +6,55 @@ class Solution:
         m = len(matrix)
         n = len(matrix[0])
 
-        # Preallocate
+        # local bindings for speed
         width = [[0] * n for _ in range(m)]
-        up = [[0] * n for _ in range(m)]
-        down = [[0] * n for _ in range(m)]
+        matrix0 = matrix[0]
 
-        # ----- compute consecutive widths -----
+        # compute consecutive widths
         for i in range(m):
             row = matrix[i]
             w = width[i]
-            prev = 0
-            for j in range(n):
+            w[0] = 1 if row[0] == '1' else 0
+            for j in range(1, n):
                 if row[j] == '1':
-                    prev += 1
+                    w[j] = w[j - 1] + 1
                 else:
-                    prev = 0
-                w[j] = prev
+                    w[j] = 0
 
-        # ----- compute up-span -----
+        # compute up-span
+        up = [[0] * n for _ in range(m)]
         for j in range(n):
             stack = []
-            col_width = [width[i][j] for i in range(m)]
-            col_up = up  # alias for speed
-
             for i in range(m):
-                cur = col_width[i]
-                # pop while top width > cur
-                while stack and col_width[stack[-1]] > cur:
+                cur_width = width[i][j]
+                while stack and width[stack[-1]][j] > cur_width:
                     stack.pop()
 
-                col_up[i][j] = i + 1 if not stack else i - stack[-1]
+                up[i][j] = i + 1 if not stack else i - stack[-1]
                 stack.append(i)
 
-        # ----- compute down-span -----
+        # compute down-span
+        down = [[0] * n for _ in range(m)]
         for j in range(n):
             stack = []
-            col_width = [width[i][j] for i in range(m)]
-            col_down = down  # alias for speed
-
             for i in range(m - 1, -1, -1):
-                cur = col_width[i]
-                # pop while top width >= cur
-                while stack and col_width[stack[-1]] >= cur:
+                cur_width = width[i][j]
+                while stack and width[stack[-1]][j] >= cur_width:
                     stack.pop()
 
-                col_down[i][j] = (m - i) if not stack else (stack[-1] - i)
+                down[i][j] = (m - i) if not stack else (stack[-1] - i)
                 stack.append(i)
 
-        # ----- compute maximal rectangle -----
+        # compute maximal rectangle
         maxRect = 0
         for i in range(m):
             w_row = width[i]
             up_row = up[i]
             down_row = down[i]
             for j in range(n):
-                if w_row[j]:  # quick skip
-                    h = up_row[j] + down_row[j] - 1
-                    area = w_row[j] * h
-                    if area > maxRect:
-                        maxRect = area
+                h = up_row[j] + down_row[j] - 1
+                area = w_row[j] * h
+                if area > maxRect:
+                    maxRect = area
 
         return maxRect
