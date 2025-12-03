@@ -13,5 +13,4 @@ class Solution:
             score += maxValue
 
         return score
-
         
