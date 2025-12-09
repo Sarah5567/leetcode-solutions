@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
