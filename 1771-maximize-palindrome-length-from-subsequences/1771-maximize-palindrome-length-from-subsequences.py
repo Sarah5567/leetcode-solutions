@@ -3,38 +3,56 @@ class Solution:
         word = word1 + word2
         n = len(word)
 
-        # Standard LPS DP: dp[l][r] = longest palindromic subsequence in word[l..r]
+        # Preconvert chars to ints 0–25 to avoid repeated ord() calls
+        A = [ord(c) - 97 for c in word]
+        A1 = A[:len(word1)]
+        A2 = A[len(word1):]
+
+        # DP table
         dp = [[0] * n for _ in range(n)]
 
-        # Substrings of length 1
+        # Length-1 substrings
         for i in range(n):
             dp[i][i] = 1
 
-        # Substrings of increasing length
+        # Fill DP for increasing lengths
         for length in range(2, n + 1):
+            # cache dp and A locally for speed
+            dp_local = dp
+            A_local = A
+
             for l in range(n - length + 1):
                 r = l + length - 1
-                if word[l] == word[r]:
-                    dp[l][r] = dp[l + 1][r - 1] + 2 if length > 2 else 2
-                else:
-                    dp[l][r] = max(dp[l + 1][r], dp[l][r - 1])
 
-        # Now check palindromes that start in word1 and end in word2
+                if A_local[l] == A_local[r]:
+                    if length > 2:
+                        dp_local[l][r] = dp_local[l + 1][r - 1] + 2
+                    else:
+                        dp_local[l][r] = 2
+                else:
+                    # local variables reduce attribute lookups
+                    left = dp_local[l + 1][r]
+                    right = dp_local[l][r - 1]
+                    dp_local[l][r] = left if left >= right else right
+
+        # Collect positions of each letter in word2
+        pos_last = [[] for _ in range(26)]
+        for j, ch in enumerate(A2):
+            pos_last[ch].append(j)
+
         m = len(word1)
         longest = 0
 
-        pos_last = [[] for _ in range(26)]
-        for j, ch in enumerate(word2):
-            pos_last[ord(ch) - ord('a')].append(j)
-
-        for i, ch in enumerate(word1):
-            letter = ord(ch) - ord('a')
-            if pos_last[letter]:
-                # Last occurrence of ch inside word2
-                j2 = m + pos_last[letter][-1]
+        # Compare word1 positions to last occurrences in word2
+        for i, ch in enumerate(A1):
+            lst = pos_last[ch]
+            if lst:
+                j2 = m + lst[-1]
                 if i + 1 <= j2 - 1:
-                    longest = max(longest, dp[i + 1][j2 - 1] + 2)
+                    val = dp[i + 1][j2 - 1] + 2
                 else:
-                    longest = max(longest, 2)
+                    val = 2
+                if val > longest:
+                    longest = val
 
         return longest
