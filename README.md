@@ -327,12 +327,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 ## Binary Search
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
+| [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 ## Shortest Path
 |  |
 | ------- |
