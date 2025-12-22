@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Sarah5567/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
