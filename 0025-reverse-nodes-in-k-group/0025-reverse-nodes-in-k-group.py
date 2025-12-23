@@ -1,33 +1,34 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
-    def reverse_one_group(self, node : Optional[ListNode], k : int, i : int) -> Tuple[ListNode, ListNode]:
-        if i == k:
-            return (node, node.next)
-        if not node.next:
-            return (None, None)
-        else:
-            first, last = self.reverse_one_group(node.next, k, i + 1)
-            if first:
-                node.next.next = node
-            return first, last
+    def reverse_one_group(self, node, k):
+        if not node:
+            return None, None
+        if k == 1:
+            return node, node.next
 
-    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        first, last = self.reverse_one_group(head, k, 1)
+        first, last = self.reverse_one_group(node.next, k - 1)
+        if not first:
+            return None, None
+
+        node.next.next = node
+        return first, last
+
+    def reverseKGroup(self, head, k):
+        first, last = self.reverse_one_group(head, k)
+        if not first:
+            return head
+
         head.next = last
         prev = head
         head = first
 
-        while last:
-            first, last = self.reverse_one_group(last, k, 1)
-            if first:
-                prev.next.next = last
+        while True:
+            first, last = self.reverse_one_group(last, k)
+            if not first:
+                break
 
-                cur_tail = prev.next
-                prev.next = first
-                prev = cur_tail
+            tail = prev.next
+            tail.next = last
+            prev.next = first
+            prev = tail
 
         return head
