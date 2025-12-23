@@ -1,6 +1,5 @@
 class Solution:
     def subtree_findings(self, node, p, q):
-        # returns: (p_exists, q_exists, ans)
         if not node:
             return False, False, None
 
