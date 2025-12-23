@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sarah5567/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sarah5567/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Sarah5567/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
