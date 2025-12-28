@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Sarah5567/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
 ## Counting
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 ## Shortest Path
 |  |
 | ------- |
@@ -450,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## String Matching
 |  |
