@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Sarah5567/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/Sarah5567/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sarah5567/leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
