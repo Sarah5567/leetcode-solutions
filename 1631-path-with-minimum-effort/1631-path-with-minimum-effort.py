@@ -1,36 +1,35 @@
-class Solution:
-    def dijkstra(self, graph, start):
-        dist = {node : float('inf') for node in graph}
-        dist[start] = 0
+import heapq
+from typing import List
 
-        pq = [(0, start)]
+class Solution:
+    def minimumEffortPath(self, heights: List[List[int]]) -> int:
+        rows, cols = len(heights), len(heights[0])
+
+        # dist[i][j] = minimum effort to reach (i, j)
+        dist = [[float('inf')] * cols for _ in range(rows)]
+        dist[0][0] = 0
+
+        pq = [(0, 0, 0)]  # (current_effort, i, j)
+
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
         while pq:
-            cur_dist, u = heapq.heappop(pq)
-            if cur_dist > dist[u]:
+            cur_dist, i, j = heapq.heappop(pq)
+
+            if cur_dist > dist[i][j]:
                 continue
 
-            for v, w in graph[u]:
-                new_dist = max(cur_dist, w)
-                if new_dist < dist[v]:
-                    dist[v] = new_dist
-                    heapq.heappush(pq, (new_dist, v))
+            if i == rows - 1 and j == cols - 1:
+                return cur_dist
 
-        return dist
+            for di, dj in directions:
+                ni, nj = i + di, j + dj
+                if 0 <= ni < rows and 0 <= nj < cols:
+                    effort = abs(heights[ni][nj] - heights[i][j])
+                    new_dist = max(cur_dist, effort)
 
-    def minimumEffortPath(self, heights: List[List[int]]) -> int:
-        rows, columns = len(heights), len(heights[0])
-        graph = {(i, j) : [] for i in range(rows) for j in range(columns)}
-        for i in range(rows):
-            for j in range(columns):
-                if i > 0:
-                    effort = abs(heights[i - 1][j] - heights[i][j])
-                    graph[(i, j)].append(((i - 1, j), effort))
-                    graph[(i - 1, j)].append(((i, j), effort))
-                 
-                if j > 0:
-                    effort = abs(heights[i][j - 1] - heights[i][j])
-                    graph[(i, j)].append(((i, j - 1), effort))
-                    graph[(i, j - 1)].append(((i, j), effort))
+                    if new_dist < dist[ni][nj]:
+                        dist[ni][nj] = new_dist
+                        heapq.heappush(pq, (new_dist, ni, nj))
 
-        dist = self.dijkstra(graph, (0, 0))
-        return int(dist[(rows-1, columns-1)])
+        return dist[rows - 1][cols - 1]
