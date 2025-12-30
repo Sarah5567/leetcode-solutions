@@ -8,21 +8,15 @@ class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
         n = len(nums) - 1
         duplicate = 0
-        max_element = max(nums)
 
-        for bit in range(32):
-            if max_element == 0:
-                break
+        count_ones_upto = self.count_ones_upto
+        max_bits = max(nums).bit_length()
 
-            ones = 0
-            for num in nums:
-                ones += (num >> bit) & 1
-
-            expected_ones = self.count_ones_upto(n, bit)
+        for bit in range(max_bits):
+            ones = sum((num >> bit) & 1 for num in nums)
+            expected_ones = count_ones_upto(n, bit)
 
             if ones > expected_ones:
                 duplicate |= (1 << bit)
-
-            max_element >>= 1
 
         return duplicate
