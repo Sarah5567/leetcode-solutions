@@ -1,22 +1,27 @@
 class Solution:
-    def get_num_subarrays(self, length: int) -> int:
-        return length * (length + 1) // 2
-
     def numSubarrayBoundedMax(self, nums: List[int], left: int, right: int) -> int:
         too_large_prev = -1
         too_small_length = 0
-        ans : long = 0
+        ans = 0
+
+        def count(length: int) -> int:
+            return length * (length + 1) // 2
+
         for i, num in enumerate(nums):
-            if left <= num:
-                ans -= self.get_num_subarrays(too_small_length)
-                too_small_length = 0
-                if right < num:
-                    ans += self.get_num_subarrays(i - too_large_prev - 1)
+            if num >= left:
+                if too_small_length:
+                    ans -= count(too_small_length)
+                    too_small_length = 0
+
+                if num > right:
+                    ans += count(i - too_large_prev - 1)
                     too_large_prev = i
             else:
                 too_small_length += 1
 
-        ans += self.get_num_subarrays(len(nums) - 1 - too_large_prev)
-        ans -= self.get_num_subarrays(too_small_length)
+        ans += count(len(nums) - 1 - too_large_prev)
 
-        return int(ans)
+        if too_small_length:
+            ans -= count(too_small_length)
+
+        return ans
