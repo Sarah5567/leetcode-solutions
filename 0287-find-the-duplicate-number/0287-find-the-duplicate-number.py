@@ -7,10 +7,13 @@ class Solution:
 
     def findDuplicate(self, nums: List[int]) -> int:
         n = len(nums) - 1
-        duplicate  = 0
-        cur_pow = 2
+        duplicate = 0
+        max_element = max(nums)
 
         for bit in range(32):
+            if max_element == 0:
+                break
+
             ones = 0
             for num in nums:
                 ones += (num >> bit) & 1
@@ -18,7 +21,8 @@ class Solution:
             expected_ones = self.count_ones_upto(n, bit)
 
             if ones > expected_ones:
-                duplicate  |= (1 << bit)
-            cur_pow *= 2
-        
+                duplicate |= (1 << bit)
+
+            max_element >>= 1
+
         return duplicate
