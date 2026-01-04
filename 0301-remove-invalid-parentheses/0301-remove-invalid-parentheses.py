@@ -40,8 +40,15 @@ class Solution:
         pos: int,
         s_pos: int,
         open_ptr: int,
-        close_ptr: int
+        close_ptr: int,
+        visited: set
     ):
+        # 🔹 memoization – לא משנה לוגיקה, רק חותך כפילויות
+        state = (s, pos, s_pos, open_ptr, close_ptr)
+        if state in visited:
+            return
+        visited.add(state)
+
         n = len(origional)
 
         if pos == n:
@@ -65,7 +72,8 @@ class Solution:
                 pos + 1,
                 s_pos,
                 open_ptr - 1,
-                close_ptr
+                close_ptr,
+                visited
             )
 
         elif origional[pos] == ')' and close_ptr < len(invalid_close) and invalid_close[close_ptr] >= pos:
@@ -78,7 +86,8 @@ class Solution:
                 pos + 1,
                 s_pos,
                 open_ptr,
-                close_ptr + 1
+                close_ptr + 1,
+                visited
             )
 
         self.get_valid_parentheses(
@@ -90,7 +99,8 @@ class Solution:
             pos + 1,
             s_pos + 1,
             open_ptr,
-            close_ptr
+            close_ptr,
+            visited
         )
 
     def removeInvalidParentheses(self, s: str) -> List[str]:
@@ -98,6 +108,8 @@ class Solution:
         invalid_close = self.get_invalid_close_positions(s)
 
         results = set()
+        visited = set()
+
         self.get_valid_parentheses(
             s,
             s,
@@ -107,7 +119,8 @@ class Solution:
             0,
             0,
             len(invalid_open) - 1,
-            0
+            0,
+            visited
         )
 
         return list(results) if results else [""]
