@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Sarah5567/leetcode-solutions/tree/master/0686-repeated-string-match) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Sarah5567/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/Sarah5567/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
