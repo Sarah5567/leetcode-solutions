@@ -6,8 +6,8 @@ class Solution:
         next_index1, next_index2 = 0, 1
         minimum_swaps1, minimum_swaps2 = 0, 0
 
-        for i, num in enumerate(nums):
-            if num % 2 == parity:
+        for i in range(n):
+            if nums[i] % 2 == parity:
                 if next_index2 >= n:
                     minimum_swaps2 = n ** 2
                 minimum_swaps1 += abs(i - next_index1)
