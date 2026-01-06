@@ -10,13 +10,14 @@ class Solution:
         letter_prefix_counts = [[0] * n for _ in range(ALPHABET_SIZE)]
 
         for letter, positions in letter_positions.items():
-            letter_prefix_counts[letter][0] = 1 if positions and positions[0] == 0 else 0
-            idx = letter_prefix_counts[letter][0]
+            prefix = letter_prefix_counts[letter]
+            prefix[0] = 1 if positions and positions[0] == 0 else 0
+            idx = prefix[0]
 
             for i in range(1, n):
-                letter_prefix_counts[letter][i] = letter_prefix_counts[letter][i - 1]
+                prefix[i] = prefix[i - 1]
                 if idx < len(positions) and positions[idx] == i:
-                    letter_prefix_counts[letter][i] += 1
+                    prefix[i] += 1
                     idx += 1
 
         count_palindromes = 0
@@ -29,12 +30,12 @@ class Solution:
             if left > right:
                 continue
 
+            left_idx = left - 1
             count_mid_options = 0
+
             for mid_letter in letter_positions:
-                if (
-                    letter_prefix_counts[mid_letter][right]
-                    > letter_prefix_counts[mid_letter][left - 1]
-                ):
+                prefix = letter_prefix_counts[mid_letter]
+                if prefix[right] > prefix[left_idx]:
                     count_mid_options += 1
 
             count_palindromes += count_mid_options
