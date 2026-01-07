@@ -1,9 +1,12 @@
 class Solution:
     def maximumBeauty(self, nums: List[int], k: int) -> int:
         nums.sort()
-        max_beauty, begin_idx = 0, 0
-        for idx, num in enumerate(nums):
-            begin_idx = bisect_left(nums, num - k * 2, lo=begin_idx, hi=idx)
-            max_beauty = max(max_beauty, idx - begin_idx + 1)
+        left = 0
+        best = 0
 
-        return max_beauty
+        for right in range(len(nums)):
+            while nums[right] - nums[left] > 2 * k:
+                left += 1
+            best = max(best, right - left + 1)
+
+        return best
