@@ -9,7 +9,7 @@ public:
         for(int i = 0; i < n; i++){
             int left = i > 0 ? 0 : 1;
             int right = i < n - 1 ? n - 1 : n - 2;
-            while(left < right){
+            while(left < right ){
                 int cur_sum = nums[i] + nums[left] + nums[right];
                 if(abs(target - closest_sum) > abs(target - cur_sum))
                     closest_sum = cur_sum;
