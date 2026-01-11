@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarah5567/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Sarah5567/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Sarah5567/leetcode-solutions/tree/master/0072-edit-distance) |
