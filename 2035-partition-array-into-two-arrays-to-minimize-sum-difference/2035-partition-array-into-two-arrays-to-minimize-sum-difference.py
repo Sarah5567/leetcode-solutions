@@ -3,6 +3,7 @@ class Solution:
         n = len(nums)
         half = n // 2
         total_sum = sum(nums)
+        target = total_sum // 2
 
         left = nums[:half]
         right = nums[half:]
@@ -10,29 +11,15 @@ class Solution:
         sums_left = [[] for _ in range(half + 1)]
         sums_right = [[] for _ in range(half + 1)]
 
-        for mask in range(1 << half):
-            cnt = 0
-            s = 0
-            for i in range(half):
-                if mask & (1 << i):
-                    cnt += 1
-                    s += left[i]
-            sums_left[cnt].append(s)
-
-        for mask in range(1 << half):
-            cnt = 0
-            s = 0
-            for i in range(half):
-                if mask & (1 << i):
-                    cnt += 1
-                    s += right[i]
-            sums_right[cnt].append(s)
-
         for k in range(half + 1):
+            for comb in combinations(left, k):
+                sums_left[k].append(sum(comb))
+            for comb in combinations(right, k):
+                sums_right[k].append(sum(comb))
+
             sums_right[k].sort()
 
         ans = float('inf')
-        target = total_sum // 2
 
         for k in range(half + 1):
             left_sums = sums_left[k]
@@ -44,9 +31,10 @@ class Solution:
 
                 for j in (idx, idx - 1):
                     if 0 <= j < len(right_sums):
-                        s2 = right_sums[j]
-                        chosen = s1 + s2
-                        other = total_sum - chosen
-                        ans = min(ans, abs(chosen - other))
+                        diff = abs(total_sum - 2 * (s1 + right_sums[j]))
+                        if diff < ans:
+                            ans = diff
+                            if ans == 0:
+                                return 0
 
         return ans
