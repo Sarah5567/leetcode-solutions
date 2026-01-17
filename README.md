@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Sarah5567/leetcode-solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sarah5567/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Prefix Sum
 |  |
 | ------- |
