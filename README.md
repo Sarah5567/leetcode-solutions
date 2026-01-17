@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sarah5567/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
@@ -467,11 +469,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -572,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Shortest Path
 |  |
 | ------- |
