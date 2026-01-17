@@ -8,16 +8,9 @@ public:
 
             long long curVal = nums[i];
 
-            auto next = s.lower_bound(curVal);
-            if (next != s.end() && *next - curVal <= valueDiff)
+            auto it = s.lower_bound(curVal - valueDiff);
+            if (it != s.end() && *it <= curVal + valueDiff)
                 return true;
-
-            if (next != s.begin()) {
-                auto prev = next;
-                --prev;
-                if (curVal - *prev <= valueDiff)
-                    return true;
-            }
 
             s.insert(nums[i]);
         }
