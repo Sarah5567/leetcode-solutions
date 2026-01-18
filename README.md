@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarah5567/leetcode-solutions/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Recursion
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sarah5567/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Prefix Sum
 |  |
 | ------- |
