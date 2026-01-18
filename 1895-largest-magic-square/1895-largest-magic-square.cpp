@@ -48,24 +48,25 @@ public:
         int longest = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                for(int k = 1; i + k < m && j + k < n; k++){
+                for (int k = min(m - i, n - j) - 1; k > longest; --k){
                     long long sum = getPrefixSum(grid, rowPref, {i, j}, {i, j + k});
                     bool isMagicSquare = true;
+
+                    if(sum != getPrefixSum(grid, upRightPref, {i + k, j}, {i, j + k}) ||
+                        sum != getPrefixSum(grid, downLeftPref, {i, j}, {i + k, j + k}))
+                        continue;
+
 
                     for(int r = i; r <= i + k && isMagicSquare; r++)
                         if(sum != getPrefixSum(grid, rowPref, {r, j}, {r, j + k}))
                             isMagicSquare = false;
 
-                    for(int c = j; c < j + k && isMagicSquare; c++)
+                    for(int c = j; c <= j + k && isMagicSquare; c++)
                         if(sum != getPrefixSum(grid, colPref, {i, c}, {i + k, c}))
                             isMagicSquare = false;
 
-                    if(!isMagicSquare ||
-                        sum != getPrefixSum(grid, upRightPref, {i + k, j}, {i, j + k}) ||
-                        sum != getPrefixSum(grid, downLeftPref, {i, j}, {i + k, j + k}))
-                        continue;
-                    
-                    longest = max(longest, k);
+                    if(isMagicSquare)                    
+                        longest = k;
                 }
             }
         }
