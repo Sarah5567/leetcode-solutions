@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarah5567/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Sarah5567/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Queue
 |  |
