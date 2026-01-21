@@ -1,34 +1,47 @@
 class Solution {
 public:
     int minLength(vector<int>& nums, int k) {
-            unordered_map<int, int> table;
+        unordered_map<int,int> table;
+        table.reserve(nums.size());
 
-            int shortest = INT_MAX, sum = 0;
-            int l = 0;
+        int shortest = INT_MAX;
+        long long sum = 0;
+        int l = 0;
+        const int n = (int)nums.size();
 
-            for(int r = 0; r < nums.size(); r++){
-                if(table.find(nums[r]) != table.end() && table[nums[r]]){
-                    table[nums[r]]++;
-                    continue;
-                }
+        for (int r = 0; r < n; ++r) {
+            auto [it, inserted] = table.try_emplace(nums[r], 0);
 
-                table[nums[r]] = 1;
-                sum += nums[r];
-
-                while(table[nums[l]] > 1 || sum - nums[l] >= k){
-                    table[nums[l]]--;
-                    if(!table[nums[l]]){
-                        sum -= nums[l];
-                    }
-                    l++;
-                }
-
-                if(sum >= k)
-                    shortest = min(shortest, r - l + 1);
+            if (it->second > 0) {
+                ++(it->second);
+                continue;
             }
 
-            if(shortest == INT_MAX)
-                shortest = -1;
-            return shortest;
+            it->second = 1;
+            sum += nums[r];
+
+            while (true) {
+                int x = nums[l];
+                auto itL = table.find(x); // should exist
+                if (itL->second > 1) {
+                    --(itL->second);
+                    ++l;
+                    continue;
+                }
+                if (sum - x >= k) {
+                    --(itL->second);      // becomes 0
+                    sum -= x;
+                    ++l;
+                    continue;
+                }
+                break;
+            }
+
+            if (sum >= k) {
+                shortest = min(shortest, r - l + 1);
+            }
+        }
+
+        return (shortest == INT_MAX) ? -1 : shortest;
     }
 };
