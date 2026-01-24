@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [1895-largest-magic-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
