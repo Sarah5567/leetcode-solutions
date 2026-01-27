@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Sarah5567/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Sarah5567/leetcode-solutions/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Sarah5567/leetcode-solutions/tree/master/0037-sudoku-solver) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Sarah5567/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Sarah5567/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0055-jump-game) |
