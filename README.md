@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
