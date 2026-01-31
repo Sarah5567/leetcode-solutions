@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0275-h-index-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0312-burst-balloons) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sarah5567/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
