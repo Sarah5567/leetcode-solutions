@@ -14,26 +14,26 @@ public:
                 }
             }
 
-            int idx = 0;
+            int time = 0;
             while(!pq.empty() || !q.empty()){
-                if(!q.empty() && (q.front().first <= idx || pq.empty())){
-                    if(pq.empty()){
-                        idx = q.front().first;
-                    }
+                if(pq.empty()){
+                    time = q.front().first;
+                }
 
+                if(!q.empty() && (q.front().first <= time || pq.empty())){
                     pq.push(q.front().second);
                     q.pop(); 
                 }
 
                 int max_freq = pq.top();
                 if(--max_freq){
-                    q.push({idx + n + 1, max_freq});
+                    q.push({time + n + 1, max_freq});
                 }
                 
                 pq.pop();
-                idx++;
+                time++;
             }
 
-            return idx;
+            return time;
     }
 };
