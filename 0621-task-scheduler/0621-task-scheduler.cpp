@@ -1,8 +1,7 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-            int alphabet_size = 26;
-            vector<int> freq(alphabet_size, 0);
+            vector<int> freq(26, 0);
 
             for (char ch : tasks)
                 freq[ch - 'A']++;
@@ -27,8 +26,9 @@ public:
                 }
 
                 int max_freq = pq.top();
-                if(max_freq - 1){
-                    q.push({idx + n + 1, max_freq - 1});
+                max_freq--;
+                if(max_freq){
+                    q.push({idx + n + 1, max_freq});
                 }
                 
                 pq.pop();
