@@ -17,17 +17,16 @@ public:
             int idx = 0;
             while(!pq.empty() || !q.empty()){
                 if(!q.empty() && (q.front().first <= idx || pq.empty())){
-                    pq.push(q.front().second);
-                    if(q.front().first > idx){
+                    if(pq.empty()){
                         idx = q.front().first;
                     }
 
+                    pq.push(q.front().second);
                     q.pop(); 
                 }
 
                 int max_freq = pq.top();
-                max_freq--;
-                if(max_freq){
+                if(--max_freq){
                     q.push({idx + n + 1, max_freq});
                 }
                 
