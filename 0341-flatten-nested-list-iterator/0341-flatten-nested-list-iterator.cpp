@@ -1,10 +1,13 @@
 class NestedIterator {
 private:
     stack<pair<const vector<NestedInteger>*, int>> st;
+    bool prepared = false;
 
     void moveToNextInteger() {
         while (!st.empty()) {
-            auto &[lst, idx] = st.top();
+            auto &top = st.top();
+            const auto *lst = top.first;
+            int &idx = top.second;
 
             if (idx >= (int)lst->size()) {
                 st.pop();
@@ -14,28 +17,37 @@ private:
 
             if ((*lst)[idx].isInteger()) return;
 
-            const vector<NestedInteger> &sub = (*lst)[idx].getList();
+            const auto &sub = (*lst)[idx].getList();
             st.push({&sub, 0});
+        }
+    }
+
+    void prepare() {
+        if (!prepared) {
+            moveToNextInteger();
+            prepared = true;
         }
     }
 
 public:
     NestedIterator(vector<NestedInteger> &nestedList) {
         st.push({&nestedList, 0});
-        moveToNextInteger();
+        prepared = false;
     }
 
     int next() {
-        int val = (*st.top().first)[st.top().second].getInteger();
-        st.top().second++;
+        prepare();
 
-        moveToNextInteger();
+        auto &top = st.top();
+        int val = (*top.first)[top.second].getInteger();
 
+        top.second++;
+        prepared = false;
         return val;
     }
 
     bool hasNext() {
-        moveToNextInteger();
+        prepare();
         return !st.empty();
     }
 };
