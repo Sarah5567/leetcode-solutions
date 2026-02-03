@@ -11,8 +11,6 @@ public:
                     return efficiency[i] > efficiency[j];
                 });
 
-        
-
         priority_queue<int, vector<int>, greater<int>> pq;
         pq.push(speed[idx[0]]);
 
