@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarah5567/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sarah5567/leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
+| [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
