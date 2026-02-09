@@ -4,8 +4,19 @@ class Solution:
             idx += 1
 
         if s[idx] == '-' or s[idx].isdigit():
-            end = next((j for j in range(idx + 1, len(s)) if not s[j].isdigit()), len(s))
-            num = int(s[idx:end])
+            end = idx
+            value = 0
+            sign = 1
+
+            if s[end] == '-':
+                sign = -1
+                end += 1
+
+            while end < len(s) and s[end].isdigit():
+                value = value * 10 + (ord(s[end]) - ord('0'))
+                end += 1
+
+            num = sign * value
             return NestedInteger(num), end
         
         else:
