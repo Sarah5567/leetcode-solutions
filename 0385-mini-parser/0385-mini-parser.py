@@ -1,33 +1,33 @@
 class Solution:
-    def deserialize_from_idx(self, s: str, idx: int) -> tuple(NestedInteger, int):
-        if s[idx] == ',':
-            idx += 1
+    def deserialize(self, s: str) -> NestedInteger:
+        n = len(s)
+        ZERO = ord('0')
 
-        if s[idx] == '-' or s[idx].isdigit():
-            end = idx
-            value = 0
-            sign = 1
+        def parse(idx: int):
+            if s[idx] == ',':
+                idx += 1
 
-            if s[end] == '-':
-                sign = -1
-                end += 1
+            c = s[idx]
+            if c == '-' or ('0' <= c <= '9'):
+                sign = 1
+                if c == '-':
+                    sign = -1
+                    idx += 1
 
-            while end < len(s) and s[end].isdigit():
-                value = value * 10 + (ord(s[end]) - ord('0'))
-                end += 1
+                value = 0
+                while idx < n and ('0' <= s[idx] <= '9'):
+                    value = value * 10 + (ord(s[idx]) - ZERO)
+                    idx += 1
 
-            num = sign * value
-            return NestedInteger(num), end
-        
-        else:
+                return NestedInteger(sign * value), idx
+
             obj = NestedInteger()
             idx += 1
+            lst = obj.getList()
             while s[idx] != ']':
-                sub_obj, idx = self.deserialize_from_idx(s, idx)
-                obj.getList().append(sub_obj)
-            
+                sub, idx = parse(idx)
+                lst.append(sub)
             return obj, idx + 1
 
-    def deserialize(self, s: str) -> NestedInteger:
-        obj, idx = self.deserialize_from_idx(s, 0)
+        obj, _ = parse(0)
         return obj
