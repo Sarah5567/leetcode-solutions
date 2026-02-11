@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Sarah5567/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0398-random-pick-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sarah5567/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Sarah5567/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0398-random-pick-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
