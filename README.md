@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Sarah5567/leetcode-solutions/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/Sarah5567/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
+| [1106-parsing-a-boolean-expression](https://github.com/Sarah5567/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1106-parsing-a-boolean-expression](https://github.com/Sarah5567/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 | [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [1106-parsing-a-boolean-expression](https://github.com/Sarah5567/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Depth-First Search
 |  |
 | ------- |
