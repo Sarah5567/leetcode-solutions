@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Sarah5567/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarah5567/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
