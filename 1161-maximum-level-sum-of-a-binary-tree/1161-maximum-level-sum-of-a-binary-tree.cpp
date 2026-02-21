@@ -1,47 +1,36 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
-        queue<pair<TreeNode*,int>> q;
-        q.emplace(root, 1);
+        std::queue<TreeNode*> q;
+        q.push(root);
 
-        int cur_sum = 0;
-        int cur_level = 1;
+        int cur_level = 0;
         int max_sum = INT_MIN;
-        int ans;
-        while(!q.empty()){
-            auto [node, level] = q.front();
-            q.pop();
-            if(level == cur_level + 1){
-                if(cur_sum > max_sum){
-                    max_sum = cur_sum;
-                    ans = cur_level;
-                }
-                cur_level += 1;
-                cur_sum = 0;
-            }
-            cur_sum += node->val;
+        int ans = 0;
 
-            if(node->left){
-                q.emplace(node->left, level + 1);
+        while (!q.empty()) {
+            int level_size = q.size();
+            int cur_sum = 0;
+            cur_level++;
+
+            for (int i = 0; i < level_size; ++i) {
+                TreeNode* node = q.front();
+                q.pop();
+
+                cur_sum += node->val;
+
+                if (node->left)
+                    q.push(node->left);
+                if (node->right)
+                    q.push(node->right);
             }
-            if(node->right){
-                q.emplace(node->right, level + 1);
+
+            if (cur_sum > max_sum) {
+                max_sum = cur_sum;
+                ans = cur_level;
             }
         }
-        if(cur_sum > max_sum)
-            ans = cur_level;
-        
+
         return ans;
     }
 };
