@@ -1,25 +1,19 @@
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
         sorted_arr = sorted(arr)
-        seen = defaultdict(int)
+        balance = defaultdict(int)
         chunks = 0
-        nonzero = 0
 
-        for val, sorted_val in zip(arr, sorted_arr):
+        for a, b in zip(arr, sorted_arr):
+            balance[a] -= 1
+            balance[b] += 1
 
-            seen[sorted_val] += 1
-            if seen[sorted_val] == 1:
-                nonzero += 1
-            if seen[sorted_val] == 0:
-                nonzero -= 1
+            if balance[a] == 0:
+                del balance[a]
+            if balance[b] == 0:
+                del balance[b]
 
-            seen[val] -= 1
-            if seen[val] == -1:
-                nonzero += 1
-            if seen[val] == 0:
-                nonzero -= 1
-
-            if not nonzero:
+            if not balance:
                 chunks += 1
 
         return chunks
