@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sarah5567/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sarah5567/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sarah5567/leetcode-solutions/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0517-super-washing-machines](https://github.com/Sarah5567/leetcode-solutions/tree/master/0517-super-washing-machines) |
