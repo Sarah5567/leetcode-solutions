@@ -14,7 +14,7 @@ class Solution:
             return ''.join(result)
 
         for s in strs:
-            sorted_s = sort_string_linear(s)
+            sorted_s = ''.join(sorted(s))
             if sorted_s in anagrams:
                 anagrams[sorted_s].append(s)
             else:
