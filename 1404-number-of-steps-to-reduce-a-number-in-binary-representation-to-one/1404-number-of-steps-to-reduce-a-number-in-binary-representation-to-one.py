@@ -3,10 +3,10 @@ class Solution:
         steps = 0
         carry = 0
 
-        for bit in reversed(s[1:]):
-            b = int(bit)
+        for i in range(len(s) - 1, 0, -1):
+            bit = int(s[i])
 
-            if b + carry == 1:
+            if bit + carry == 1:
                 steps += 2
                 carry = 1
             else:
