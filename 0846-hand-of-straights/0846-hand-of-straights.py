@@ -11,7 +11,7 @@ class Solution:
         cards_in_q = 0
 
         for i, val in enumerate(sorted_values):
-            if q and q[0].idx + groupSize == i:
+            while q and q[0].idx + groupSize == i:
                 cards_in_q -= q[0].amount
                 q.popleft()
 
@@ -28,7 +28,7 @@ class Solution:
                 q.append(Pending(i, new_groups))
                 cards_in_q += new_groups
 
-        if q and q[0].idx + groupSize == len(sorted_values):
+        while q and q[0].idx + groupSize == len(sorted_values):
             cards_in_q -= q[0].amount
             q.popleft()
 
