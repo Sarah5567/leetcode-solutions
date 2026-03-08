@@ -1,19 +1,25 @@
 class Solution:
     def minKBitFlips(self, nums: List[int], k: int) -> int:
-        flips = [0] * len(nums)
-        
-        for i, num in enumerate(nums):
+        n = len(nums)
 
-            if i > 0:
-                flips[i] = flips[i - 1]
+        flipped = 0          # parity of active flips
+        ans = 0              # number of flips
+        is_flipped = [0] * n # marks where a flip started
 
-            last_k_flips = flips[i - 1] if i > 0 else 0
+        for i in range(n):
+
+            # remove flip effect when leaving the window
             if i >= k:
-                last_k_flips -= flips[i - k]
+                flipped ^= is_flipped[i - k]
 
-            if (num + last_k_flips) % 2 == 0:
-                if i + k > len(nums):
+            # check current bit after flips
+            if nums[i] ^ flipped == 0:
+
+                if i + k > n:
                     return -1
-                flips[i] += 1
 
-        return flips[-1]
+                ans += 1
+                flipped ^= 1
+                is_flipped[i] = 1
+
+        return ans
