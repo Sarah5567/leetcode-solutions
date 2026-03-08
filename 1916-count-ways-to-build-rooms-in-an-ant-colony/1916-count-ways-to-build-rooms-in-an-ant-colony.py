@@ -17,7 +17,6 @@ class Solution:
         for i in range(n, 0, -1):
             inv_fact[i - 1] = inv_fact[i] * i % MOD
 
-        # fast combination
         def comb(n, k):
             return fact[n] * inv_fact[k] % MOD * inv_fact[n - k] % MOD
 
@@ -28,7 +27,6 @@ class Solution:
             for v in g[u]:
                 s, w = dfs(v)
 
-                # combine permutations
                 ways = ways * w % MOD
                 ways = ways * comb(size + s - 1, s) % MOD
 
