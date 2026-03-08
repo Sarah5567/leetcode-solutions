@@ -1,8 +1,8 @@
 class Solution:
     def minFlips(self, s: str) -> int:
         n = len(s)
-
         cost = 0
+        
         for i, ch in enumerate(s):
             if (i % 2) != int(ch):
                 cost += 1
@@ -15,7 +15,7 @@ class Solution:
 
             if digit:
                 cost += 1
-                
+
             if ((n - 1) % 2) != digit:
                 cost += 1
 
