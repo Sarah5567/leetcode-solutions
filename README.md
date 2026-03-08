@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sarah5567/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [1895-largest-magic-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/1895-largest-magic-square) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Sarah5567/leetcode-solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3729-unit-conversion-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3729-unit-conversion-i) |
 ## Breadth-First Search
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Sarah5567/leetcode-solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 ## Bit Manipulation
@@ -739,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
@@ -835,4 +841,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Graph Theory
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Combinatorics
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
