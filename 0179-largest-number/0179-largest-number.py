@@ -1,12 +1,16 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        def compare(a, b):
-            if str(a) + str(b) > str(b) + str(a):
+        strs = list(map(str, nums))
+
+        def compare(a: str, b: str) -> int:
+            if a + b > b + a:
                 return -1
-            if str(a) + str(b) < str(b) + str(a):
+            if a + b < b + a:
                 return 1
             return 0
 
-        nums = sorted(nums, key=cmp_to_key(compare))
-        result = ''.join(map(str, nums))
+        strs.sort(key=cmp_to_key(compare))
+
+        result = ''.join(strs)
+
         return '0' if result[0] == '0' else result
