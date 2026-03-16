@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Sarah5567/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarah5567/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/Sarah5567/leetcode-solutions/tree/master/0319-bulb-switcher) |
