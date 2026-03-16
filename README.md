@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sarah5567/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sarah5567/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0113-path-sum-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sarah5567/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Sarah5567/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sarah5567/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarah5567/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Sarah5567/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarah5567/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
