@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarah5567/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
