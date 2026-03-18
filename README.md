@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0552-student-attendance-record-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sarah5567/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0664-strange-printer](https://github.com/Sarah5567/leetcode-solutions/tree/master/0664-strange-printer) |
 | [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
