@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0699-falling-squares](https://github.com/Sarah5567/leetcode-solutions/tree/master/0699-falling-squares) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [0699-falling-squares](https://github.com/Sarah5567/leetcode-solutions/tree/master/0699-falling-squares) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [0699-falling-squares](https://github.com/Sarah5567/leetcode-solutions/tree/master/0699-falling-squares) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [1622-fancy-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
