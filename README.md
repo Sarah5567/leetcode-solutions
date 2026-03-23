@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/1895-largest-magic-square) |
