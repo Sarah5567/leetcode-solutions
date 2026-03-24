@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Math
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
+| [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
