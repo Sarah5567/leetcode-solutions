@@ -1,13 +1,16 @@
 class Solution:
     def canPartitionGrid(self, grid: List[List[int]]) -> bool:
         m, n = len(grid), len(grid[0])
-        total_sum = sum(sum(row) for row in grid)
+        
+        flat_grid = list(itertools.chain.from_iterable(grid))
+        total_sum = sum(flat_grid)
+        base_counter = Counter(flat_grid)
 
-        def check_partition(part_sum, other_sum, counter, rows, cols, ends):
+        def check_partition(part_sum, other_sum, current_counter, rows, cols, ends):
             if part_sum == other_sum:
                 return True
             diff = part_sum - other_sum
-            if diff <= 0 or diff not in counter:
+            if diff <= 0 or current_counter.get(diff, 0) == 0:
                 return False
             
             if rows > 1 and cols > 1:
@@ -15,21 +18,17 @@ class Solution:
             return diff in ends
 
         top_counter = Counter()
-        bottom_counter = Counter()
-        for row in grid:
-            bottom_counter.update(row)
-        
+        bottom_counter = base_counter.copy()
         top_sum = 0
         bottom_sum = total_sum
         
         for i in range(m - 1):
-            row_sum = 0
-            for val in grid[i]:
-                row_sum += val
+            row = grid[i]
+            row_sum = sum(row)
+            
+            for val in row:
                 top_counter[val] += 1
                 bottom_counter[val] -= 1
-                if bottom_counter[val] == 0:
-                    del bottom_counter[val]
             
             top_sum += row_sum
             bottom_sum -= row_sum
@@ -43,10 +42,7 @@ class Solution:
                 return True
 
         left_counter = Counter()
-        right_counter = Counter()
-        for row in grid:
-            right_counter.update(row)
-            
+        right_counter = base_counter.copy()
         left_sum = 0
         right_sum = total_sum
         
@@ -57,8 +53,6 @@ class Solution:
                 col_sum += val
                 left_counter[val] += 1
                 right_counter[val] -= 1
-                if right_counter[val] == 0:
-                    del right_counter[val]
             
             left_sum += col_sum
             right_sum -= col_sum
