@@ -5,7 +5,6 @@ class Solution:
 
         score = 0
         
-        # initial score + build change array
         for i, val in enumerate(nums):
             if val <= i:
                 score += 1
@@ -22,7 +21,6 @@ class Solution:
         max_score = score
         best_k = 0
 
-        # sweep line
         for k in range(1, n):
             score += change[k]
             if score > max_score:
