@@ -6,17 +6,14 @@ class Solution:
         swap = 1
         
         for i in range(1, n):
-            new_keep = float('inf')
-            new_swap = float('inf')
+            inc = nums1[i] > nums1[i - 1] and nums2[i] > nums2[i - 1]
+            cross = nums1[i] > nums2[i - 1] and nums2[i] > nums1[i - 1]
             
-            if nums1[i] > nums1[i - 1] and nums2[i] > nums2[i - 1]:
-                new_keep = keep
-                new_swap = swap + 1
-            
-            if nums1[i] > nums2[i - 1] and nums2[i] > nums1[i - 1]:
-                new_keep = min(new_keep, swap)
-                new_swap = min(new_swap, keep + 1)
-            
-            keep, swap = new_keep, new_swap
+            if inc and cross:
+                keep, swap = min(keep, swap), min(keep, swap) + 1
+            elif inc:
+                swap += 1
+            else:
+                keep, swap = swap, keep + 1
         
         return min(keep, swap)
