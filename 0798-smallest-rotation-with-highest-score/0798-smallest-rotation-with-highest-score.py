@@ -4,7 +4,8 @@ class Solution:
         change = [0] * n
 
         score = 0
-        for i, val in enumerate(nums):
+        for i in range(n):
+            val = nums[i]
             if val <= i:
                 score += 1
             
