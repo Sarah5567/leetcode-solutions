@@ -1,18 +1,17 @@
 class Solution:
     def checkStrings(self, s1: str, s2: str) -> bool:
-        n = len(s1)
-        odd_positions = [0] * 26
-        even_positions = [0] * 26
+        even = [0] * 26
+        odd = [0] * 26
 
-        for i in range(n):
-            if i % 2:
-                odd_positions[ord(s1[i]) - ord('a')] += 1
-                odd_positions[ord(s2[i]) - ord('a')] -= 1
+        for i, (c1, c2) in enumerate(zip(s1, s2)):
+            idx1 = ord(c1) - ord('a')
+            idx2 = ord(c2) - ord('a')
+
+            if i % 2 == 0:
+                even[idx1] += 1
+                even[idx2] -= 1
             else:
-                even_positions[ord(s1[i]) - ord('a')] += 1
-                even_positions[ord(s2[i]) - ord('a')] -= 1
+                odd[idx1] += 1
+                odd[idx2] -= 1
 
-        return all(
-            even_positions[i] == 0 and odd_positions[i] == 0
-            for i in range(26)
-        )
+        return even == [0] * 26 and odd == [0] * 26
