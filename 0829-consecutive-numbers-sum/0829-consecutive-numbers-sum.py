@@ -1,16 +1,14 @@
 class Solution:
     def consecutiveNumbersSum(self, n: int) -> int:
         ways = 0
-
         k = 1
-        while k * (k - 1) // 2 < n:
-            remainder = n - k * (k - 1) // 2
+        tri = 0
 
-            if remainder % k == 0:
-                a = remainder // k
-                if a > 0:
-                    ways += 1
+        while tri < n:
+            if (n - tri) % k == 0:
+                ways += 1
 
             k += 1
+            tri += k - 1
 
         return ways
