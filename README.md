@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0798-smallest-rotation-with-highest-score](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Sarah5567/leetcode-solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
+| [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0828-chalkboard-xor-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0846-hand-of-straights](https://github.com/Sarah5567/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
+| [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
@@ -960,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 ## Radix Sort
 |  |
 | ------- |
