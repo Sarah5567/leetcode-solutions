@@ -1,6 +1,5 @@
 class Solution:
 
-    # DSU used to group connected 1-cells and compute island sizes
     class DisjointSet:
         def __init__(self, n):
             self.parent = list(range(n))
@@ -16,7 +15,7 @@ class Solution:
             rootB = self.find(b)
 
             if rootA == rootB:
-                return
+                return rootA
 
             if self.size[rootA] < self.size[rootB]:
                 rootA, rootB = rootB, rootA
@@ -24,18 +23,13 @@ class Solution:
             self.parent[rootB] = rootA
             self.size[rootA] += self.size[rootB]
 
-        def group_size(self, x):
-            return self.size[self.find(x)]
-
-        def same_group(self, a, b):
-            return self.find(a) == self.find(b)
-            
+            return rootA
 
     def largestIsland(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
         dsu = Solution.DisjointSet(m * n)
 
-        moves = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        moves = [(0, 1), (1, 0)]
 
         def idx(r, c):
             return r * n + c
@@ -43,32 +37,38 @@ class Solution:
         def valid(r, c):
             return 0 <= r < m and 0 <= c < n
 
+        best = 0
+
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 1:
+                    best = max(best, 1)
                     for dr, dc in moves:
                         ni, nj = i + dr, j + dc
                         if valid(ni, nj) and grid[ni][nj] == 1:
-                            dsu.union(idx(i, j), idx(ni, nj))
+                            root = dsu.union(idx(i, j), idx(ni, nj))
+                            best = max(best, dsu.size[root])
 
-        best = 0
+        root_grid = [[-1] * n for _ in range(m)]
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 1:
-                    best = max(best, dsu.group_size(idx(i, j)))
+                    root_grid[i][j] = dsu.find(idx(i, j))
+
+        directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
         for i in range(m):
             for j in range(n):
                 if grid[i][j] == 0:
-                    seen = set()
+                    seen = []
                     cur = 1
 
-                    for dr, dc in moves:
+                    for dr, dc in directions:
                         ni, nj = i + dr, j + dc
                         if valid(ni, nj) and grid[ni][nj] == 1:
-                            root = dsu.find(idx(ni, nj))
+                            root = root_grid[ni][nj]
                             if root not in seen:
-                                seen.add(root)
+                                seen.append(root)
                                 cur += dsu.size[root]
 
                     best = max(best, cur)
