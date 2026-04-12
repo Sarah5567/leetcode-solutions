@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarah5567/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Sarah5567/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarah5567/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sarah5567/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1223-dice-roll-simulation](https://github.com/Sarah5567/leetcode-solutions/tree/master/1223-dice-roll-simulation) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarah5567/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
