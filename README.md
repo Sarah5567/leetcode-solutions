@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0956-tallest-billboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1223-dice-roll-simulation](https://github.com/Sarah5567/leetcode-solutions/tree/master/1223-dice-roll-simulation) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Sarah5567/leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Sarah5567/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [0956-tallest-billboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sarah5567/leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1001-grid-illumination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
