@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarah5567/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/Sarah5567/leetcode-solutions/tree/master/0319-bulb-switcher) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
 ## Bucket Sort
 |  |
