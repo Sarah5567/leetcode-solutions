@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0699-falling-squares](https://github.com/Sarah5567/leetcode-solutions/tree/master/0699-falling-squares) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarah5567/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
+| [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarah5567/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarah5567/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarah5567/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1820-number-of-ways-to-reconstruct-a-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1820-number-of-ways-to-reconstruct-a-tree) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -712,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarah5567/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Linked List
@@ -736,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/Sarah5567/leetcode-solutions/tree/master/0218-the-skyline-problem) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+| [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
