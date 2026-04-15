@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sarah5567/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0699-falling-squares](https://github.com/Sarah5567/leetcode-solutions/tree/master/0699-falling-squares) |
+| [0713-subarray-product-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sarah5567/leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarah5567/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sarah5567/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sarah5567/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
+| [0713-subarray-product-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sarah5567/leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
