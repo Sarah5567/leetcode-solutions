@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sarah5567/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sarah5567/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Sarah5567/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/Sarah5567/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0517-super-washing-machines](https://github.com/Sarah5567/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/Sarah5567/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
