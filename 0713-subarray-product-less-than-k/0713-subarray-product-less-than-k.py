@@ -7,11 +7,11 @@ class Solution:
         left = 0
         count = 0
 
-        for right in range(len(nums)):
-            product *= nums[right]
+        for right, num in enumerate(nums):
+            product *= num
 
             while product >= k:
-                product /= nums[left]
+                product //= nums[left]
                 left += 1
 
             count += right - left + 1
