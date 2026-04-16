@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Sarah5567/leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarah5567/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1223-dice-roll-simulation](https://github.com/Sarah5567/leetcode-solutions/tree/master/1223-dice-roll-simulation) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarah5567/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Sarah5567/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Sarah5567/leetcode-solutions/tree/master/0805-split-array-with-same-average) |
 | [0828-chalkboard-xor-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
+| [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
