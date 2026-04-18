@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0828-chalkboard-xor-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0828-chalkboard-xor-game) |
 | [0846-hand-of-straights](https://github.com/Sarah5567/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Sarah5567/leetcode-solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [0956-tallest-billboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0956-tallest-billboard) |
