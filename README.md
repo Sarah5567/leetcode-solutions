@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Sarah5567/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Sarah5567/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarah5567/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sarah5567/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sarah5567/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
