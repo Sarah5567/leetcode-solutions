@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
+| [0403-frog-jump](https://github.com/Sarah5567/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sarah5567/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sarah5567/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0403-frog-jump](https://github.com/Sarah5567/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
