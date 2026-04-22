@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Eulerian Circuit
 |  |
 | ------- |
