@@ -1,10 +1,8 @@
 class Solution:
     def distance(self, nums: List[int]) -> List[int]:
-        indexes = {}
+        indexes = defaultdict(list)
 
         for i, num in enumerate(nums):
-            if num not in indexes:
-                indexes[num] = []
             indexes[num].append(i)
 
         arr = [0] * len(nums)
