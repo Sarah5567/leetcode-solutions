@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sarah5567/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarah5567/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0664-strange-printer](https://github.com/Sarah5567/leetcode-solutions/tree/master/0664-strange-printer) |
 | [0769-largest-plus-sign](https://github.com/Sarah5567/leetcode-solutions/tree/master/0769-largest-plus-sign) |
 | [0799-champagne-tower](https://github.com/Sarah5567/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarah5567/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarah5567/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Sarah5567/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sarah5567/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Sarah5567/leetcode-solutions/tree/master/0757-set-intersection-size-at-least-two) |
