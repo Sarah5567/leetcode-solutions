@@ -12,9 +12,17 @@ class Solution:
             neighbors = [[r + 1, c], [r - 1, c], [r, c + 1], [r, c - 1]]
 
             for r_neighbor, c_neighbor in neighbors:
-                if is_valid_cell(r_neighbor, c_neighbor) and grid[r_neighbor][c_neighbor] == grid[r][c] and (r_neighbor, c_neighbor) != source:
-                        if visited[r_neighbor][c_neighbor] or dfs(r_neighbor, c_neighbor, (r, c)):
-                            return True
+                if not is_valid_cell(r_neighbor, c_neighbor):
+                    continue
+
+                if not grid[r_neighbor][c_neighbor] == grid[r][c]:
+                    continue
+
+                if (r_neighbor, c_neighbor) == source:
+                    continue
+
+                if visited[r_neighbor][c_neighbor] or dfs(r_neighbor, c_neighbor, (r, c)):
+                    return True
                         
             return False
 
