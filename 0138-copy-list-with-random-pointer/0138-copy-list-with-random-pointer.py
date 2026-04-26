@@ -16,7 +16,7 @@ class Solution:
         new = new_head
         original = head
 
-        #First round: copy the list, original.random = new, new.random = original.random
+        #First pass: copy the list
         while new:
             new.random, original.random = original.random, new
             if original.next:
@@ -25,7 +25,7 @@ class Solution:
             new = new.next
             original = original.next
 
-        #Second round: update the random pointer to point to the new node
+        #Second pass: update the random pointers to point to the corresponding new nodes
         node = new_head
         while node:
             if node.random:
