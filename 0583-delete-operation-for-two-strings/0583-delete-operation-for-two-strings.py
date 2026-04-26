@@ -6,8 +6,10 @@ class Solution:
         for i in range(m):
             dp = [0] * (n + 1)
             dp[0] = i + 1
+
             for j in range(n):
                 dp[j + 1] = min(dp[j] + 1, prev_dp[j + 1] + 1, prev_dp[j] + 2)
+                
                 if word1[i] == word2[j]:
                     dp[j + 1] = min(dp[j + 1], prev_dp[j])
             
