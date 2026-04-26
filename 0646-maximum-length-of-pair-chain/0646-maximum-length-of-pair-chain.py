@@ -3,11 +3,11 @@ class Solution:
         pairs.sort(key=lambda pair: pair[1])
 
         length = 0
-        edge = float('-inf')
+        current_end = float('-inf')
 
         for left, right in pairs:
-            if left > edge:
+            if left > current_end:
                 length += 1
-                edge = right
+                current_end = right
 
         return length
