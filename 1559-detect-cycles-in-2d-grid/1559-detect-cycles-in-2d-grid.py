@@ -2,30 +2,36 @@ class Solution:
     def containsCycle(self, grid: List[List[str]]) -> bool:
         m, n = len(grid), len(grid[0])
         visited = [[False] * n for _ in range(m)]
+        directions = [(1,0), (-1,0), (0,1), (0,-1)]
 
-        def dfs(r: int, c: int, source) -> bool:
+        def dfs(r, c, pr, pc):
             visited[r][c] = True
+            val = grid[r][c]
 
-            neighbors = [[r + 1, c], [r - 1, c], [r, c + 1], [r, c - 1]]
+            for dr, dc in directions:
+                nr, nc = r + dr, c + dc
 
-            for r_neighbor, c_neighbor in neighbors:
-                if r_neighbor == m or r_neighbor < 0 or c_neighbor == n or c_neighbor < 0:
+                if not (0 <= nr < m and 0 <= nc < n):
                     continue
 
-                if not grid[r_neighbor][c_neighbor] == grid[r][c]:
+                if grid[nr][nc] != val:
                     continue
 
-                if (r_neighbor, c_neighbor) == source:
+                if nr == pr and nc == pc:
                     continue
 
-                if visited[r_neighbor][c_neighbor] or dfs(r_neighbor, c_neighbor, (r, c)):
+                if visited[nr][nc]:
                     return True
-                        
+
+                if dfs(nr, nc, r, c):
+                    return True
+
             return False
 
         for r in range(m):
             for c in range(n):
-                if not visited[r][c] and dfs(r, c, (-1, -1)):
-                    return True
+                if not visited[r][c]:
+                    if dfs(r, c, -1, -1):
+                        return True
 
         return False
