@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0306-additive-number) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0306-additive-number) |
 | [0526-beautiful-arrangement](https://github.com/Sarah5567/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sarah5567/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
