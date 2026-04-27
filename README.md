@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Sarah5567/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0552-student-attendance-record-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0553-optimal-division) |
+| [0576-out-of-boundary-paths](https://github.com/Sarah5567/leetcode-solutions/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sarah5567/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarah5567/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
