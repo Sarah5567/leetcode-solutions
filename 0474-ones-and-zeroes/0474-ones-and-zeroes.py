@@ -1,14 +1,13 @@
 class Solution:
-    def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
+    def findMaxForm(self, strs, m, n):
         dp = [[0] * (n + 1) for _ in range(m + 1)]
-        ones = [sum(int(ch) for ch in string) for string in strs]
 
-        for k, string in enumerate(strs):
-            zeros = len(string) - ones[k]
+        for s in strs:
+            zeros = s.count('0')
+            ones = len(s) - zeros
 
-            for i in range(m, -1, -1):
-                for j in range(n, -1, -1):
-                        if i + zeros <= m and j + ones[k] <= n:
-                            dp[i + zeros][j + ones[k]] = max(dp[i + zeros][j + ones[k]], dp[i][j] + 1)
+            for i in range(m, zeros - 1, -1):
+                for j in range(n, ones - 1, -1):
+                    dp[i][j] = max(dp[i][j], dp[i - zeros][j - ones] + 1)
 
-        return max(max(row) for row in dp)
+        return dp[m][n]
