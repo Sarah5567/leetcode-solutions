@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Sarah5567/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sarah5567/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 ## Divide and Conquer
 |  |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Sarah5567/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
