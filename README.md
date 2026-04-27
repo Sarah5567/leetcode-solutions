@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Sarah5567/leetcode-solutions/tree/master/0648-replace-words) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
