@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Sarah5567/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0552-student-attendance-record-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Sarah5567/leetcode-solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sarah5567/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0553-optimal-division) |
 | [0633-sum-of-square-numbers](https://github.com/Sarah5567/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0780-reaching-points](https://github.com/Sarah5567/leetcode-solutions/tree/master/0780-reaching-points) |
 | [0798-transform-to-chessboard](https://github.com/Sarah5567/leetcode-solutions/tree/master/0798-transform-to-chessboard) |
