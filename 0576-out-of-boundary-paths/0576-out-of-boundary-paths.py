@@ -11,7 +11,7 @@ class Solution:
 
             for i in range(m):
                 for j in range(n):
-                    next_dp[i + 1][j + 1] = dp[i][j + 1] + dp[i + 2][j + 1] + dp[i + 1][j] + dp[i + 1][j + 2]
+                    next_dp[i + 1][j + 1] = (dp[i][j + 1] + dp[i + 2][j + 1] + dp[i + 1][j] + dp[i + 1][j + 2])
 
             dp = next_dp
             paths += dp[startRow + 1][startColumn + 1]
