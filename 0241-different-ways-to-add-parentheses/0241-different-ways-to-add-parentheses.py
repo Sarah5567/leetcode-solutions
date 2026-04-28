@@ -34,9 +34,3 @@ class Solution:
                                 case '*':
                                     dp[i][j].append(left_val * right_val)
         return dp[0][-1]
-
-
-
-
-        
-
