@@ -1,10 +1,9 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         n = len(s)
-        #the dp stores wheather the substring that starts in the index i have has the length 'length'-which is the loop iterator, is polindrom
-        #all substring with length 1 are polindrom
+
+
         dp = [True] * n
-        #all substring with length 0 are polindrom
         prev_dp = [True] * n
 
         longest = s[0]
@@ -20,6 +19,3 @@ class Solution:
             dp = next_dp
 
         return longest
-
-
-        
