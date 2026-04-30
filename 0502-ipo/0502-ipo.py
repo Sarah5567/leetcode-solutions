@@ -21,5 +21,3 @@ class Solution:
             total_capital += -heapq.heappop(heap)
 
         return total_capital
-
-
