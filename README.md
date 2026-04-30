@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Sarah5567/leetcode-solutions/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Sarah5567/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/Sarah5567/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Sarah5567/leetcode-solutions/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/Sarah5567/leetcode-solutions/tree/master/0517-super-washing-machines) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/Sarah5567/leetcode-solutions/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sarah5567/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/Sarah5567/leetcode-solutions/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Sarah5567/leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sarah5567/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
