@@ -3,9 +3,9 @@ class Solution:
         amounts = [float('inf')] * (amount + 1)
         amounts[0] = 0
 
-        for cur_amount in range(amount):
+        for cur_amount in range(1, amount + 1):
             for coin in coins:
-                if cur_amount + coin <= amount:
-                    amounts[cur_amount + coin] = min(amounts[cur_amount + coin], amounts[cur_amount] + 1)
+                if cur_amount - coin >= 0:
+                    amounts[cur_amount] = min(amounts[cur_amount - coin] + 1, amounts[cur_amount])
 
         return amounts[amount] if amounts[amount] < float('inf') else -1
