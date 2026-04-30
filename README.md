@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sarah5567/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Sarah5567/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sarah5567/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sarah5567/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sarah5567/leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Sarah5567/leetcode-solutions/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0330-patching-array) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Sarah5567/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Sarah5567/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sarah5567/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
