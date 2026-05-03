@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Sarah5567/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarah5567/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0306-additive-number) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sarah5567/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarah5567/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sarah5567/leetcode-solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0654-maximum-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0264-ugly-number-ii) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarah5567/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Sarah5567/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0390-elimination-game) |
