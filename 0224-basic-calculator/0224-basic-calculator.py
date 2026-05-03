@@ -1,39 +1,33 @@
 class Solution:
     def calculate(self, s: str) -> int:
         s = s.replace(' ', '')
-        numbers = []
-        ops = []
+        stack = [1]
+        sign = 1
+        answer = 0
         index = 0
 
         while index < len(s):
-            if s[index] == '(':
-               ops.append('(')
+            char = s[index]
 
-            elif s[index] == ')':
-                operands = []
-                while ops[-1] != '(':
-                    last_op = ops.pop()
-                    operands.append(numbers.pop() * (-1 if last_op == '-' else 1))
-                ops.pop()
-                numbers[-1] += sum(operands)
-
-            elif s[index] in ['+', '-']:
-                if index == 0 or s[index - 1] == '(':
-                    numbers.append(0)
-                ops.append(s[index])
-
-            else:
+            if char == '+':
+                sign = 1
+            elif char == '-':
+                sign = -1
+            elif char == '(':
+                stack.append(sign * stack[-1])
+                sign = 1 
+            elif char == ')':
+                stack.pop()
+            elif char.isdigit():
                 last_index = index
                 while last_index + 1 < len(s) and s[last_index + 1].isdigit():
                     last_index += 1
-            
-                numbers.append(int(s[index:last_index + 1])) 
+                
+                current_num = int(s[index:last_index + 1])
+                answer += current_num * sign * stack[-1]
+                
                 index = last_index
 
             index += 1
 
-        operands = []
-        while ops:
-            last_op = ops.pop()
-            operands.append(numbers.pop() * (-1 if last_op == '-' else 1))
-        return numbers[-1] + sum(operands)
+        return answer
