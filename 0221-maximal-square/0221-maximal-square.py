@@ -11,4 +11,4 @@ class Solution:
                     dp[i][j] += min(dp[i - 1][j], dp[i][j - 1], dp[i - 1][j - 1])
                     largest = max(largest, dp[i][j])
 
-        return max(max(row) for row in dp) ** 2
+        return largest ** 2
