@@ -1,6 +1,6 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        entries = ['']
+        entries = []
         for ch in path:
             if ch == '/':
                 if entries and entries[-1] == '.':
