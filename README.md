@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Sarah5567/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sarah5567/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sarah5567/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/Sarah5567/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sarah5567/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sarah5567/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Sarah5567/leetcode-solutions/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Sarah5567/leetcode-solutions/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sarah5567/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
