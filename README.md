@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
+| [3660-jump-game-ix](https://github.com/Sarah5567/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Array
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/Sarah5567/leetcode-solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
