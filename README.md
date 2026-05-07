@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0306-additive-number) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0420-strong-password-checker](https://github.com/Sarah5567/leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0474-ones-and-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sarah5567/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Sarah5567/leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Sarah5567/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0341-flatten-nested-list-iterator](https://github.com/Sarah5567/leetcode-solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Sarah5567/leetcode-solutions/tree/master/0385-mini-parser) |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Sarah5567/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sarah5567/leetcode-solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Sarah5567/leetcode-solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0770-couples-holding-hands) |
@@ -1133,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Trie
@@ -1220,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Sarah5567/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/Sarah5567/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Combinatorics
@@ -1230,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sarah5567/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
