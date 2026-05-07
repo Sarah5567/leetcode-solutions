@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Sarah5567/leetcode-solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sarah5567/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sarah5567/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sarah5567/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0174-dungeon-game) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sarah5567/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarah5567/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
