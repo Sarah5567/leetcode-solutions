@@ -8,7 +8,7 @@ class Trie:
     def __init__(self):
         self.root = TrieNode()
 
-    def insert(self, word: str) -> None:
+    def insert(self, word):
         node = self.root
 
         for char in word:
@@ -19,39 +19,56 @@ class Trie:
 
         node.is_end = True
 
+
 class Solution:
-    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
-        m = len(board)
-        n = len(board[0])
+    def findWords(self, board, words):
+        m, n = len(board), len(board[0])
 
         trie = Trie()
+
         for word in words:
             trie.insert(word)
 
         ans = []
-        visited = [[False] * n for _ in range(m)]
 
-        def dfs(r, c, trie_node, cur_word):
-            visited[r][c] = True
+        def dfs(r, c, node, cur_word):
+            char = board[r][c]
 
-            if trie_node.is_end:
+            if node.is_end:
                 ans.append(cur_word)
-                trie_node.is_end = False
+                node.is_end = False
 
-            neighbors = [(r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1)]
+            board[r][c] = "#"
 
-            for nr, nc in neighbors:
-                if nr in [-1, m] or nc in [-1, n] or visited[nr][nc]:
-                    continue
+            if r > 0:
+                nxt = board[r - 1][c]
+                if nxt in node.children:
+                    dfs(r - 1, c, node.children[nxt], cur_word + nxt)
 
-                if board[nr][nc] in trie_node.children:
-                    dfs(nr, nc, trie_node.children[board[nr][nc]], cur_word + board[nr][nc])
+            if r < m - 1:
+                nxt = board[r + 1][c]
+                if nxt in node.children:
+                    dfs(r + 1, c, node.children[nxt], cur_word + nxt)
 
-            visited[r][c] = False
+            if c > 0:
+                nxt = board[r][c - 1]
+                if nxt in node.children:
+                    dfs(r, c - 1, node.children[nxt], cur_word + nxt)
+
+            if c < n - 1:
+                nxt = board[r][c + 1]
+                if nxt in node.children:
+                    dfs(r, c + 1, node.children[nxt], cur_word + nxt)
+
+            board[r][c] = char
+
+        root_children = trie.root.children
 
         for i in range(m):
             for j in range(n):
-                if board[i][j] in trie.root.children:
-                    dfs(i, j, trie.root.children[board[i][j]], board[i][j])
+                char = board[i][j]
+
+                if char in root_children:
+                    dfs(i, j, root_children[char], char)
 
         return ans
