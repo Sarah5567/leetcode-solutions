@@ -18,6 +18,7 @@ class Solution:
 
         first_idx = find_first_element(target)
         last_idx = find_first_element(target + 1) - 1
+        
         if 0 <= first_idx < n and nums[first_idx] == target:
             return [first_idx, last_idx]
         else:
