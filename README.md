@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Sarah5567/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Sarah5567/leetcode-solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Sarah5567/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
