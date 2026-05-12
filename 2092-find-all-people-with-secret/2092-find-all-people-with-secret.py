@@ -9,16 +9,22 @@ class Solution:
             graph = defaultdict(list)
             queue = deque()
             time = meetings[index][-1]
+            initial_sources = set()
 
             while index < len(meetings) and meetings[index][-1] == time:
                 x, y, _ = meetings[index]
                 graph[x].append(y)
                 graph[y].append(x)
+
+                if x in secret_holders:
+                    initial_sources.add(x)
+                if y in secret_holders:
+                    initial_sources.add(y)
+
                 index += 1
 
-            for person in graph:
-                if person in secret_holders:
-                    queue.append(person)
+            for person in initial_sources:
+                queue.append(person)
 
             while queue:
                 p = queue.pop()
