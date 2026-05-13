@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-dice-roll-simulation](https://github.com/Sarah5567/leetcode-solutions/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1001-grid-illumination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Sarah5567/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
