@@ -47,9 +47,4 @@ class Solution:
             return head, next_node
 
         head, _ = merge_sort(head, 0, length - 1)
-        node = head
-        for _ in range(length - 1):
-            node = node.next
-        node.next = None
-
         return head
