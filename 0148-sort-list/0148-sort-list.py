@@ -1,13 +1,14 @@
 class Solution:
+
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return head
+
         length = 0
         node = head
         while node:
             length += 1
             node = node.next
-
-        if not length:
-            return None
 
         def merge_sort(node, left, right):
             if left == right:
@@ -21,6 +22,7 @@ class Solution:
 
             left_node = left_head
             right_node = right_head
+
             if left_node.val < right_node.val:
                 head = left_node
                 left_node = left_node.next
@@ -30,14 +32,16 @@ class Solution:
 
             cur_node = head
 
-            for i in range(left, right):
-                if not right_node or (left_node and left_node.val < right_node.val):
+            while left_node and right_node:
+                if left_node.val < right_node.val:
                     cur_node.next = left_node
                     left_node = left_node.next
                 else:
                     cur_node.next = right_node
                     right_node = right_node.next
                 cur_node = cur_node.next
+
+            cur_node.next = left_node or right_node
 
             return head, next_node
 
