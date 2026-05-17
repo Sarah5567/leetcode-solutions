@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1223-dice-roll-simulation](https://github.com/Sarah5567/leetcode-solutions/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1306-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Sarah5567/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Sarah5567/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0909-snakes-and-ladders](https://github.com/Sarah5567/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
