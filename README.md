@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1428-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Sarah5567/leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sarah5567/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarah5567/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
@@ -1114,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sarah5567/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Sarah5567/leetcode-solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarah5567/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
