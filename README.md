@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sarah5567/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarah5567/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sarah5567/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 | [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 ## Monotonic Stack
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarah5567/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Sarah5567/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 ## Hash Table
 |  |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Sarah5567/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
