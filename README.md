@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/Sarah5567/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0327-count-of-range-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
+| [0400-nth-digit](https://github.com/Sarah5567/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/Sarah5567/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
