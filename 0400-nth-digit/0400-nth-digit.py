@@ -12,3 +12,4 @@ class Solution:
         number = ((n - digits - 1) // power) + base
         s = str(number)
         return int(s[(n - digits - 1) % power])
+        
