@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3598-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/Sarah5567/leetcode-solutions/tree/master/3598-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sarah5567/leetcode-solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Heap (Priority Queue)
@@ -1150,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarah5567/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
