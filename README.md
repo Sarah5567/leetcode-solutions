@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2615-sum-of-distances](https://github.com/Sarah5567/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2615-sum-of-distances](https://github.com/Sarah5567/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Brainteaser
 |  |
