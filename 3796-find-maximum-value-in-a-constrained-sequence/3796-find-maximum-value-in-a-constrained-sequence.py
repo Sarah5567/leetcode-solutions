@@ -10,9 +10,7 @@ class Solution:
 
         for i in range(1, n):
             left[i] = min(left[i], left[i - 1] + diff[i - 1])
-
-        for i in range(n - 2, -1, -1):
-            right[i] = min(right[i], right[i + 1] + diff[i])
+            right[n - 1 - i] = min(right[n - 1 - i], right[n - i] + diff[n - 1 - i])
 
         max_value = float('-inf')
 
