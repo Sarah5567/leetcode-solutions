@@ -1,20 +1,35 @@
 class Solution:
     def findMaxVal(self, n: int, restrictions: List[List[int]], diff: List[int]) -> int:
-        left = [float('inf')] * n
-        right = [float('inf')] * n
+        INF = float('inf')
+
+        left = [INF] * n
+        right = [INF] * n
 
         for idx, max_value in restrictions:
-            left[idx] = right[idx] = max_value
+            left[idx] = max_value
+            right[idx] = max_value
 
-        left[0] = right[0] = 0
+        left[0] = 0
+        right[0] = 0
 
         for i in range(1, n):
-            left[i] = min(left[i], left[i - 1] + diff[i - 1])
-            right[n - 1 - i] = min(right[n - 1 - i], right[n - i] + diff[n - 1 - i])
+            prev = left[i - 1] + diff[i - 1]
+            if prev < left[i]:
+                left[i] = prev
 
-        max_value = float('-inf')
+        for i in range(n - 2, -1, -1):
+            prev = right[i + 1] + diff[i]
+            if prev < right[i]:
+                right[i] = prev
 
-        for left_value, right_value in zip(left, right):
-            max_value = max(max_value, min(left_value, right_value))
+        ans = 0
 
-        return max_value
+        for i in range(n):
+            val = left[i]
+            if right[i] < val:
+                val = right[i]
+
+            if val > ans:
+                ans = val
+
+        return ans
