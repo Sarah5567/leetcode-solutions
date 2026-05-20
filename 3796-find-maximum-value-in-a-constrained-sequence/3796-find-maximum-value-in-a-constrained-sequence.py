@@ -6,11 +6,9 @@ class Solution:
         right = [INF] * n
 
         for idx, max_value in restrictions:
-            left[idx] = max_value
-            right[idx] = max_value
+            left[idx] = right[idx] = max_value
 
-        left[0] = 0
-        right[0] = 0
+        left[0] = right[0] = 0
 
         for i in range(1, n):
             prev = left[i - 1] + diff[i - 1]
@@ -33,4 +31,3 @@ class Solution:
                 ans = val
 
         return ans
-        
