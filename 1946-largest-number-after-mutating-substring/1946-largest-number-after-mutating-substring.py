@@ -1,17 +1,21 @@
 class Solution:
     def maximumNumber(self, num: str, change: List[int]) -> str:
+        n = len(num)
+
         l = 0
-        while l < len(num) and int(num[l]) >= change[int(num[l])]:
+        while l < n and (d := ord(num[l]) - 48) >= change[d]:
             l += 1
 
-        if l == len(num):
+        if l == n:
             return num
 
         r = l
-        while r < len(num) and int(num[r]) <= change[int(num[r])]:
+        while r < n and (d := ord(num[r]) - 48) <= change[d]:
             r += 1
 
-
-        new_substring = ''.join(str(change[int(c)]) for c in num[l:r])
+        new_substring = ''.join(
+            str(change[ord(c) - 48])
+            for c in num[l:r]
+        )
 
         return num[:l] + new_substring + num[r:]
