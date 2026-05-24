@@ -17,5 +17,3 @@ class Solution:
             best = max(best, or_operation | num << k)
         
         return best
-
-
