@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 ## Brainteaser
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2615-sum-of-distances](https://github.com/Sarah5567/leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
