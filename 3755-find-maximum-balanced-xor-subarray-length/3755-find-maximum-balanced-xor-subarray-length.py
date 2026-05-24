@@ -1,11 +1,9 @@
 class Solution:
     def maxBalancedSubarray(self, nums: List[int]) -> int:
-        n = len(nums)
-        xors = {}
+        seen_states = {}
+        seen_states[(0,0)] = -1
+        
         diff = 0
-
-        xors[(0,0)] = -1
-
         best = 0
         prefix_xor = 0
         for i, num in enumerate(nums):
@@ -16,9 +14,9 @@ class Solution:
             else:
                 diff -= 1
 
-            if (prefix_xor, diff) in xors:
-                best = max(best, i - xors[(prefix_xor, diff)])
+            if (prefix_xor, diff) in seen_states:
+                best = max(best, i - seen_states[(prefix_xor, diff)])
             else:
-                xors[(prefix_xor, diff)] = i
+                seen_states[(prefix_xor, diff)] = i
 
         return best
