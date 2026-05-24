@@ -1,6 +1,7 @@
 class Solution:
     def minOperations(self, s: str) -> int:
-        if len(s) == 2 and s[0] > s[1]:
+        n = len(s)
+        if n == 2 and s[0] > s[1]:
             return -1
 
         max_val = 'a'
@@ -9,21 +10,27 @@ class Solution:
         count_max = 0
         is_sorted = True
 
-        for i in range(len(s)):
-            if s[i] > max_val:
-                max_val = s[i]
+        prev = s[0]
+
+        for i in range(n):
+            c = s[i]
+
+            if c > max_val:
+                max_val = c
                 count_max = 1
-            elif s[i] == max_val:
+            elif c == max_val:
                 count_max += 1
 
-            if s[i] < min_val:
-                min_val = s[i]
+            if c < min_val:
+                min_val = c
                 count_min = 1
-            elif s[i] == min_val:
+            elif c == min_val:
                 count_min += 1
 
-            if i > 0 and s[i] < s[i - 1]:
+            if is_sorted and i > 0 and c < prev:
                 is_sorted = False
+
+            prev = c
 
         if is_sorted:
             return 0
