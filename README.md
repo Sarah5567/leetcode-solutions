@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Sarah5567/leetcode-solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarah5567/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1340-jump-game-v](https://github.com/Sarah5567/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1306-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sarah5567/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1340-jump-game-v](https://github.com/Sarah5567/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1340-jump-game-v](https://github.com/Sarah5567/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sarah5567/leetcode-solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
