@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
+| [1871-jump-game-vii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sarah5567/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1946-largest-number-after-mutating-substring](https://github.com/Sarah5567/leetcode-solutions/tree/master/1946-largest-number-after-mutating-substring) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [1871-palindrome-partitioning-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-palindrome-partitioning-iv) |
+| [1871-jump-game-vii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sarah5567/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sarah5567/leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarah5567/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1871-jump-game-vii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sarah5567/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2211-k-radius-subarray-averages](https://github.com/Sarah5567/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
@@ -1259,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
