@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Sarah5567/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Sarah5567/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1946-largest-number-after-mutating-substring](https://github.com/Sarah5567/leetcode-solutions/tree/master/1946-largest-number-after-mutating-substring) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Sarah5567/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Sarah5567/leetcode-solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/Sarah5567/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Sarah5567/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
