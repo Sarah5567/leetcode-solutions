@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sarah5567/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sarah5567/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sarah5567/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -1276,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sarah5567/leetcode-solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/Sarah5567/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/Sarah5567/leetcode-solutions/tree/master/1895-largest-magic-square) |
