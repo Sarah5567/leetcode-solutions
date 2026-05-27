@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-maximum-points-after-enemy-battles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3453-separate-squares-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3453-separate-squares-i) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Backtracking
 |  |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -967,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sarah5567/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Sarah5567/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3729-unit-conversion-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3729-unit-conversion-i) |
 ## Union Find
 |  |
@@ -1314,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Sarah5567/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sarah5567/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -1409,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2092-find-all-people-with-secret](https://github.com/Sarah5567/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2374-node-with-highest-edge-score](https://github.com/Sarah5567/leetcode-solutions/tree/master/2374-node-with-highest-edge-score) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
