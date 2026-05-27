@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sarah5567/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Sarah5567/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1169-invalid-transactions](https://github.com/Sarah5567/leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sarah5567/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sarah5567/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sarah5567/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1052-grumpy-bookstore-owner](https://github.com/Sarah5567/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1169-invalid-transactions](https://github.com/Sarah5567/leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1223-dice-roll-simulation](https://github.com/Sarah5567/leetcode-solutions/tree/master/1223-dice-roll-simulation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1306-jump-game-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1306-jump-game-iii) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1001-grid-illumination](https://github.com/Sarah5567/leetcode-solutions/tree/master/1001-grid-illumination) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sarah5567/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1169-invalid-transactions](https://github.com/Sarah5567/leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1345-jump-game-iv](https://github.com/Sarah5567/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Sarah5567/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0954-array-of-doubled-pairs](https://github.com/Sarah5567/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1029-two-city-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [1169-invalid-transactions](https://github.com/Sarah5567/leetcode-solutions/tree/master/1169-invalid-transactions) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sarah5567/leetcode-solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/Sarah5567/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1363-largest-multiple-of-three](https://github.com/Sarah5567/leetcode-solutions/tree/master/1363-largest-multiple-of-three) |
