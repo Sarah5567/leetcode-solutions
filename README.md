@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2615-sum-of-distances](https://github.com/Sarah5567/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
