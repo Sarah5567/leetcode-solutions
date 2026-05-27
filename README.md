@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
