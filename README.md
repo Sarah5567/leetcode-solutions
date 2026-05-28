@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Sarah5567/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2211-k-radius-subarray-averages](https://github.com/Sarah5567/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/Sarah5567/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
