@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Two Pointers
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sarah5567/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Greedy
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Recursion
 |  |
 | ------- |
@@ -1391,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Sarah5567/leetcode-solutions/tree/master/1627-graph-connectivity-with-threshold) |
+| [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Bucket Sort
 |  |
 | ------- |
