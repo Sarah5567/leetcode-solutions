@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Sarah5567/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Sarah5567/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
@@ -1315,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2488-count-subarrays-with-median-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/2488-count-subarrays-with-median-k) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/Sarah5567/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
