@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
+| [2735-collecting-chocolates](https://github.com/Sarah5567/leetcode-solutions/tree/master/2735-collecting-chocolates) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -1358,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sarah5567/leetcode-solutions/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2735-collecting-chocolates](https://github.com/Sarah5567/leetcode-solutions/tree/master/2735-collecting-chocolates) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
