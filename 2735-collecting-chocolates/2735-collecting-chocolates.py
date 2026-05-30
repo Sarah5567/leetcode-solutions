@@ -1,15 +1,23 @@
 class Solution:
     def minCost(self, nums: List[int], x: int) -> int:
         n = len(nums)
-        cost = nums.copy()
+        cost = nums[:]
         best = sum(nums)
 
         for i in range(1, n):
-            total_cost = 0
+            curr = 0
+            ni = nums
+            ci = cost
+
             for j in range(n):
-                cost[j] = min(cost[j], nums[(j + i) % n])
-                total_cost += cost[j]
+                v = ni[(j + i) % n]
+                if v < ci[j]:
+                    ci[j] = v
+                curr += ci[j]
 
-            best = min(best, total_cost + x * i)
+            candidate = curr + x * i
+            if candidate < best:
+                best = candidate
 
-        return best 
+        return best
+        
