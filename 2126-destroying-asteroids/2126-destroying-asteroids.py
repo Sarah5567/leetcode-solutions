@@ -9,3 +9,4 @@ class Solution:
             cur_mass += asteroid
 
         return True
+        
