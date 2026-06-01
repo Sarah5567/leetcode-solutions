@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sarah5567/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1711-count-good-meals](https://github.com/Sarah5567/leetcode-solutions/tree/master/1711-count-good-meals) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sarah5567/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Sarah5567/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1813-sentence-similarity-iii](https://github.com/Sarah5567/leetcode-solutions/tree/master/1813-sentence-similarity-iii) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-avoid-flood-in-the-city](https://github.com/Sarah5567/leetcode-solutions/tree/master/1488-avoid-flood-in-the-city) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sarah5567/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sarah5567/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1711-count-good-meals](https://github.com/Sarah5567/leetcode-solutions/tree/master/1711-count-good-meals) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
