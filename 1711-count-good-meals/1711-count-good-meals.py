@@ -1,6 +1,3 @@
-from typing import List
-from collections import defaultdict
-
 class Solution:
     def countPairs(self, deliciousness: List[int]) -> int:
         MOD = 1000000007
@@ -23,4 +20,3 @@ class Solution:
                     need[d] += 1
 
         return meals
-        
