@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sarah5567/leetcode-solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2680-maximum-or](https://github.com/Sarah5567/leetcode-solutions/tree/master/2680-maximum-or) |
 | [2735-collecting-chocolates](https://github.com/Sarah5567/leetcode-solutions/tree/master/2735-collecting-chocolates) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
