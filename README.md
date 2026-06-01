@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sarah5567/leetcode-solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3660-jump-game-ix](https://github.com/Sarah5567/leetcode-solutions/tree/master/3660-jump-game-ix) |
