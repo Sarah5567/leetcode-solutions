@@ -26,5 +26,3 @@ class Solution:
             max_sum = next_max_sum
 
         return answer
-                
-
