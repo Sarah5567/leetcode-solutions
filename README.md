@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1946-largest-number-after-mutating-substring](https://github.com/Sarah5567/leetcode-solutions/tree/master/1946-largest-number-after-mutating-substring) |
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2166-design-bitset](https://github.com/Sarah5567/leetcode-solutions/tree/master/2166-design-bitset) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sarah5567/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-stamping-the-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2132-stamping-the-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Sarah5567/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2166-design-bitset](https://github.com/Sarah5567/leetcode-solutions/tree/master/2166-design-bitset) |
 | [2211-k-radius-subarray-averages](https://github.com/Sarah5567/leetcode-solutions/tree/master/2211-k-radius-subarray-averages) |
 | [2217-find-palindrome-with-fixed-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Sarah5567/leetcode-solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2166-design-bitset](https://github.com/Sarah5567/leetcode-solutions/tree/master/2166-design-bitset) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2374-node-with-highest-edge-score](https://github.com/Sarah5567/leetcode-solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
@@ -1176,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/Sarah5567/leetcode-solutions/tree/master/0745-prefix-and-suffix-search) |
 | [0885-exam-room](https://github.com/Sarah5567/leetcode-solutions/tree/master/0885-exam-room) |
 | [1622-fancy-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [2166-design-bitset](https://github.com/Sarah5567/leetcode-solutions/tree/master/2166-design-bitset) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Sarah5567/leetcode-solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2389-design-a-text-editor](https://github.com/Sarah5567/leetcode-solutions/tree/master/2389-design-a-text-editor) |
 ## Ordered Set
