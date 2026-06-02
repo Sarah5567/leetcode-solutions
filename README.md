@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3453-separate-squares-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sarah5567/leetcode-solutions/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sarah5567/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Sarah5567/leetcode-solutions/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Heap (Priority Queue)
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3478-choose-k-elements-with-maximum-sum](https://github.com/Sarah5567/leetcode-solutions/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Backtracking
 |  |
