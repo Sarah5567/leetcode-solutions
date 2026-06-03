@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3453-separate-squares-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3453-separate-squares-i) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sarah5567/leetcode-solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
@@ -1269,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Sarah5567/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1891-count-pairs-of-nodes](https://github.com/Sarah5567/leetcode-solutions/tree/master/1891-count-pairs-of-nodes) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -1402,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2735-collecting-chocolates](https://github.com/Sarah5567/leetcode-solutions/tree/master/2735-collecting-chocolates) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
