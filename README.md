@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Sarah5567/leetcode-solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sarah5567/leetcode-solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sarah5567/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Sarah5567/leetcode-solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2906-construct-product-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Sarah5567/leetcode-solutions/tree/master/2661-first-completely-painted-row-or-column) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Sarah5567/leetcode-solutions/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Sarah5567/leetcode-solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2679-sum-in-a-matrix](https://github.com/Sarah5567/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Sarah5567/leetcode-solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sarah5567/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
@@ -1249,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2673-maximize-win-from-two-segments](https://github.com/Sarah5567/leetcode-solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sarah5567/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/Sarah5567/leetcode-solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3453-separate-squares-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
