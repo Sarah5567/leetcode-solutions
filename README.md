@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Sarah5567/leetcode-solutions/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Sarah5567/leetcode-solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/Sarah5567/leetcode-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-find-palindrome-with-fixed-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Sarah5567/leetcode-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Sarah5567/leetcode-solutions/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Sarah5567/leetcode-solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/Sarah5567/leetcode-solutions/tree/master/2844-minimum-operations-to-make-a-special-number) |
