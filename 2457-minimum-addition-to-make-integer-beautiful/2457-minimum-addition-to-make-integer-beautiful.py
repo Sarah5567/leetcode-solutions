@@ -16,5 +16,4 @@ class Solution:
             n //= 10
             sum_digits = sum(int(d) for d in str(n))
 
-
         return x
