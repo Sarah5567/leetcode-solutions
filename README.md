@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Sarah5567/leetcode-solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/Sarah5567/leetcode-solutions/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3409-longest-subsequence-with-decreasing-adjacent-difference](https://github.com/Sarah5567/leetcode-solutions/tree/master/3409-longest-subsequence-with-decreasing-adjacent-difference) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sarah5567/leetcode-solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3660-jump-game-ix](https://github.com/Sarah5567/leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Sarah5567/leetcode-solutions/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/Sarah5567/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sarah5567/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
