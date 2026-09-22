@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [4000-count-bowl-subarrays](https://github.com/Sarah5567/leetcode-solutions/tree/master/4000-count-bowl-subarrays) |
 | [4041-climbing-stairs-ii](https://github.com/Sarah5567/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Sarah5567/leetcode-solutions/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Sarah5567/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Sarah5567/leetcode-solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Greedy
 |  |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/Sarah5567/leetcode-solutions/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Sarah5567/leetcode-solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Sliding Window
 |  |
@@ -1292,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sarah5567/leetcode-solutions/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Sarah5567/leetcode-solutions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Sarah5567/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sarah5567/leetcode-solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Simulation
 |  |
 | ------- |
